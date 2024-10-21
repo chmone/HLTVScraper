@@ -1,0 +1,933 @@
+[
+    {
+        "name": "Denis Zhukov",
+        "nickname": "deko",
+        "team": "Aurora",
+        "age": "23",
+        "country": "Russia",
+        "teammates": [
+            {
+                "full_name": "Aleksandr",
+                "nickname": "KENSI",
+                "rating": "1.13"
+            },
+            {
+                "full_name": "Evgeny",
+                "nickname": "Norwi",
+                "rating": "1.06"
+            },
+            {
+                "full_name": "Timur",
+                "nickname": "clax",
+                "rating": "1.03"
+            },
+            {
+                "full_name": "Viktor",
+                "nickname": "Lack1",
+                "rating": "1.00"
+            }
+        ],
+        "summary_stats": {
+            "Rating 2.0": "1.22",
+            "DPR": "0.59",
+            "KAST": "74.7%",
+            "Impact": "1.18",
+            "KPR": "0.79"
+        },
+        "total_stats": {
+            "Total kills": "18625",
+            "Headshot %": "38.3%",
+            "Total deaths": "13886",
+            "K/D Ratio": "1.34",
+            "Damage / Round": "79.8",
+            "Grenade dmg / Round": "4.1",
+            "Maps played": "927",
+            "Rounds played": "23640",
+            "Kills / round": "0.79",
+            "Assists / round": "0.12",
+            "Deaths / round": "0.59",
+            "Saved by teammate / round": "0.08",
+            "Saved teammates / round": "0.11",
+            "Rating 2.0": "1.22"
+        },
+        "role_stats": {
+            "Firepower": {
+                "Combined": {
+                    "Kills per round": "0.78",
+                    "Rounds with a kill": "52.4%",
+                    "Kills per round win": "1.04",
+                    "Rating 2.0": "1.22",
+                    "Damage per round": "79.8",
+                    "Rounds with a multi-kill": "19.9%",
+                    "Damage per round win": "101.5",
+                    "Pistol round rating": "1.26"
+                },
+                "CT": {
+                    "Kills per round": "0.84",
+                    "Rounds with a kill": "55.6%",
+                    "Kills per round win": "1.11",
+                    "Rating 2.0": "1.26",
+                    "Damage per round": "84.1",
+                    "Rounds with a multi-kill": "21.6%",
+                    "Damage per round win": "106.7",
+                    "Pistol round rating": "1.29"
+                },
+                "T": {
+                    "Kills per round": "0.72",
+                    "Rounds with a kill": "49.2%",
+                    "Kills per round win": "0.96",
+                    "Rating 2.0": "1.17",
+                    "Damage per round": "75.5",
+                    "Rounds with a multi-kill": "18.1%",
+                    "Damage per round win": "95.8",
+                    "Pistol round rating": "1.23"
+                }
+            },
+            "Entrying": {
+                "Combined": {
+                    "Saved by teammate per round": "0.08",
+                    "Traded deaths per round": "0.11",
+                    "Traded deaths percentage": "18.0%",
+                    "Opening deaths traded percentage": "19.6%",
+                    "Assists per round": "0.12",
+                    "Support rounds": "17.5%"
+                },
+                "CT": {
+                    "Saved by teammate per round": "0.06",
+                    "Traded deaths per round": "0.09",
+                    "Traded deaths percentage": "17.5%",
+                    "Opening deaths traded percentage": "15.5%",
+                    "Assists per round": "0.13",
+                    "Support rounds": "18.7%"
+                },
+                "T": {
+                    "Saved by teammate per round": "0.10",
+                    "Traded deaths per round": "0.12",
+                    "Traded deaths percentage": "18.4%",
+                    "Opening deaths traded percentage": "24.5%",
+                    "Assists per round": "0.10",
+                    "Support rounds": "16.3%"
+                }
+            },
+            "Trading": {
+                "Combined": {
+                    "Saved teammate per round": "0.11",
+                    "Trade kills per round": "0.16",
+                    "Trade kills percentage": "19.8%",
+                    "Assisted kills percentage": "20.5%",
+                    "Damage per kill": "101"
+                },
+                "CT": {
+                    "Saved teammate per round": "0.09",
+                    "Trade kills per round": "0.13",
+                    "Trade kills percentage": "16.3%",
+                    "Assisted kills percentage": "21.3%",
+                    "Damage per kill": "99"
+                },
+                "T": {
+                    "Saved teammate per round": "0.12",
+                    "Trade kills per round": "0.17",
+                    "Trade kills percentage": "23.9%",
+                    "Assisted kills percentage": "7.7%",
+                    "Damage per kill": "103"
+                }
+            },
+            "Opening": {
+                "Combined": {
+                    "Opening kills per round": "0.10",
+                    "Opening deaths per round": "0.06",
+                    "Opening attempts": "16.7%",
+                    "Opening success": "63.3%",
+                    "Win% after opening kill": "74.8%",
+                    "Attacks per round": "2.17"
+                },
+                "CT": {
+                    "Opening kills per round": "0.13",
+                    "Opening deaths per round": "0.06",
+                    "Opening attempts": "20.4%",
+                    "Opening success": "67.6%",
+                    "Win% after opening kill": "75.6%",
+                    "Attacks per round": "2.20"
+                },
+                "T": {
+                    "Opening kills per round": "0.07",
+                    "Opening deaths per round": "0.05",
+                    "Opening attempts": "12.9%",
+                    "Opening success": "56.3%",
+                    "Win% after opening kill": "73.2%",
+                    "Attacks per round": "2.14"
+                }
+            },
+            "Clutching": {
+                "Combined": {
+                    "Clutch points per round": "0.02",
+                    "Last alive percentage": "14.5%",
+                    "1on1 win percentage": "60.9%",
+                    "Time alive per round": "1m 15s",
+                    "Saves per round loss": "12.0%"
+                },
+                "CT": {
+                    "Clutch points per round": "0.02",
+                    "Last alive percentage": "12.0%",
+                    "1on1 win percentage": "53.8%",
+                    "Time alive per round": "1m 10s",
+                    "Saves per round loss": "18.6%"
+                },
+                "T": {
+                    "Clutch points per round": "0.03",
+                    "Last alive percentage": "17.1%",
+                    "1on1 win percentage": "68.6%",
+                    "Time alive per round": "1m 20s",
+                    "Saves per round loss": "5.9%"
+                }
+            },
+            "Sniping": {
+                "Combined": {
+                    "Sniper kills per round": "0.33",
+                    "Sniper kills percentage": "42.0%",
+                    "Rounds with sniper kills percentage": "23.1%",
+                    "Sniper multi-kill rounds": "0.07",
+                    "Sniper opening kills per round": "0.06"
+                },
+                "CT": {
+                    "Sniper kills per round": "0.43",
+                    "Sniper kills percentage": "50.8%",
+                    "Rounds with sniper kills percentage": "29.6%",
+                    "Sniper multi-kill rounds": "0.10",
+                    "Sniper opening kills per round": "0.08"
+                },
+                "T": {
+                    "Sniper kills per round": "0.23",
+                    "Sniper kills percentage": "31.5%",
+                    "Rounds with sniper kills percentage": "16.5%",
+                    "Sniper multi-kill rounds": "0.05",
+                    "Sniper opening kills per round": "0.03"
+                }
+            },
+            "Utility": {
+                "Combined": {
+                    "Utility damage per round": "4.06",
+                    "Utility kills per 100 rounds": "0.91",
+                    "Flashes thrown per round": "0.60",
+                    "Flash assists per round": "0.05",
+                    "Time opponent flashed per round": "2.39"
+                },
+                "CT": {
+                    "Utility damage per round": "5.40",
+                    "Utility kills per 100 rounds": "1.16",
+                    "Flashes thrown per round": "0.43",
+                    "Flash assists per round": "0.03",
+                    "Time opponent flashed per round": "2.62"
+                },
+                "T": {
+                    "Utility damage per round": "2.69",
+                    "Utility kills per 100 rounds": "0.66",
+                    "Flashes thrown per round": "0.77",
+                    "Flash assists per round": "0.06",
+                    "Time opponent flashed per round": "2.27"
+                }
+            }
+        }
+    },
+    {
+        "name": "Dmitry Sokolov",
+        "nickname": "sh1ro",
+        "team": "Spirit",
+        "age": "23",
+        "country": "Russia",
+        "teammates": [
+            {
+                "full_name": "Danil",
+                "nickname": "donk",
+                "rating": "1.41"
+            },
+            {
+                "full_name": "Myroslav",
+                "nickname": "zont1x",
+                "rating": "1.12"
+            },
+            {
+                "full_name": "Boris",
+                "nickname": "magixx",
+                "rating": "1.05"
+            },
+            {
+                "full_name": "Leonid",
+                "nickname": "chopper",
+                "rating": "0.99"
+            }
+        ],
+        "summary_stats": {
+            "Rating 2.0": "1.25",
+            "DPR": "0.54",
+            "KAST": "76.2%",
+            "Impact": "1.20",
+            "KPR": "0.77"
+        },
+        "total_stats": {
+            "Total kills": "23917",
+            "Headshot %": "28.9%",
+            "Total deaths": "16619",
+            "K/D Ratio": "1.44",
+            "Damage / Round": "78.3",
+            "Grenade dmg / Round": "3.9",
+            "Maps played": "1185",
+            "Rounds played": "30975",
+            "Kills / round": "0.77",
+            "Assists / round": "0.11",
+            "Deaths / round": "0.54",
+            "Saved by teammate / round": "0.08",
+            "Saved teammates / round": "0.11",
+            "Rating 2.0": "1.25"
+        },
+        "role_stats": {
+            "Firepower": {
+                "Combined": {
+                    "Kills per round": "0.77",
+                    "Rounds with a kill": "51.2%",
+                    "Kills per round win": "1.00",
+                    "Rating 2.0": "1.25",
+                    "Damage per round": "78.3",
+                    "Rounds with a multi-kill": "19.3%",
+                    "Damage per round win": "98.2",
+                    "Pistol round rating": "1.27"
+                },
+                "CT": {
+                    "Kills per round": "0.82",
+                    "Rounds with a kill": "53.7%",
+                    "Kills per round win": "1.09",
+                    "Rating 2.0": "1.28",
+                    "Damage per round": "82.3",
+                    "Rounds with a multi-kill": "21.3%",
+                    "Damage per round win": "104.7",
+                    "Pistol round rating": "1.19"
+                },
+                "T": {
+                    "Kills per round": "0.72",
+                    "Rounds with a kill": "48.8%",
+                    "Kills per round win": "0.92",
+                    "Rating 2.0": "1.22",
+                    "Damage per round": "74.4",
+                    "Rounds with a multi-kill": "17.4%",
+                    "Damage per round win": "91.6",
+                    "Pistol round rating": "1.34"
+                }
+            },
+            "Entrying": {
+                "Combined": {
+                    "Saved by teammate per round": "0.08",
+                    "Traded deaths per round": "0.10",
+                    "Traded deaths percentage": "17.8%",
+                    "Opening deaths traded percentage": "21.0%",
+                    "Assists per round": "0.11",
+                    "Support rounds": "20.7%"
+                },
+                "CT": {
+                    "Saved by teammate per round": "0.07",
+                    "Traded deaths per round": "0.09",
+                    "Traded deaths percentage": "18.0%",
+                    "Opening deaths traded percentage": "18.6%",
+                    "Assists per round": "0.12",
+                    "Support rounds": "21.9%"
+                },
+                "T": {
+                    "Saved by teammate per round": "0.09",
+                    "Traded deaths per round": "0.10",
+                    "Traded deaths percentage": "17.7%",
+                    "Opening deaths traded percentage": "23.7%",
+                    "Assists per round": "0.10",
+                    "Support rounds": "19.4%"
+                }
+            },
+            "Trading": {
+                "Combined": {
+                    "Saved teammate per round": "0.11",
+                    "Trade kills per round": "0.16",
+                    "Trade kills percentage": "21.4%",
+                    "Assisted kills percentage": "19.4%",
+                    "Damage per kill": "101"
+                },
+                "CT": {
+                    "Saved teammate per round": "0.09",
+                    "Trade kills per round": "0.14",
+                    "Trade kills percentage": "17.4%",
+                    "Assisted kills percentage": "19.8%",
+                    "Damage per kill": "100"
+                },
+                "T": {
+                    "Saved teammate per round": "0.13",
+                    "Trade kills per round": "0.18",
+                    "Trade kills percentage": "25.8%",
+                    "Assisted kills percentage": "18.8%",
+                    "Damage per kill": "103"
+                }
+            },
+            "Opening": {
+                "Combined": {
+                    "Opening kills per round": "0.11",
+                    "Opening deaths per round": "0.05",
+                    "Opening attempts": "17.0%",
+                    "Opening success": "66.0%",
+                    "Win% after opening kill": "77.2%",
+                    "Attacks per round": "2.10"
+                },
+                "CT": {
+                    "Opening kills per round": "0.14",
+                    "Opening deaths per round": "0.06",
+                    "Opening attempts": "20.9%",
+                    "Opening success": "70.2%",
+                    "Win% after opening kill": "77.3%",
+                    "Attacks per round": "2.14"
+                },
+                "T": {
+                    "Opening kills per round": "0.07",
+                    "Opening deaths per round": "0.05",
+                    "Opening attempts": "13.1%",
+                    "Opening success": "59.5%",
+                    "Win% after opening kill": "77.2%",
+                    "Attacks per round": "2.06"
+                }
+            },
+            "Clutching": {
+                "Combined": {
+                    "Clutch points per round": "0.03",
+                    "Last alive percentage": "14.7%",
+                    "1on1 win percentage": "65.1%",
+                    "Time alive per round": "1m 17s",
+                    "Saves per round loss": "16.1%"
+                },
+                "CT": {
+                    "Clutch points per round": "0.02",
+                    "Last alive percentage": "11.5%",
+                    "1on1 win percentage": "56.6%",
+                    "Time alive per round": "1m 15s",
+                    "Saves per round loss": "23.6%"
+                },
+                "T": {
+                    "Clutch points per round": "0.04",
+                    "Last alive percentage": "17.8%",
+                    "1on1 win percentage": "74.2%",
+                    "Time alive per round": "1m 19s",
+                    "Saves per round loss": "8.9%"
+                }
+            },
+            "Sniping": {
+                "Combined": {
+                    "Sniper kills per round": "0.43",
+                    "Sniper kills percentage": "55.9%",
+                    "Rounds with sniper kills percentage": "30.3%",
+                    "Sniper multi-kill rounds": "0.10",
+                    "Sniper opening kills per round": "0.08"
+                },
+                "CT": {
+                    "Sniper kills per round": "0.53",
+                    "Sniper kills percentage": "64.0%",
+                    "Rounds with sniper kills percentage": "36.0%",
+                    "Sniper multi-kill rounds": "0.13",
+                    "Sniper opening kills per round": "0.11"
+                },
+                "T": {
+                    "Sniper kills per round": "0.34",
+                    "Sniper kills percentage": "46.8%",
+                    "Rounds with sniper kills percentage": "24.7%",
+                    "Sniper multi-kill rounds": "0.07",
+                    "Sniper opening kills per round": "0.04"
+                }
+            },
+            "Utility": {
+                "Combined": {
+                    "Utility damage per round": "3.94",
+                    "Utility kills per 100 rounds": "0.87",
+                    "Flashes thrown per round": "0.71",
+                    "Flash assists per round": "0.06",
+                    "Time opponent flashed per round": "2.38"
+                },
+                "CT": {
+                    "Utility damage per round": "5.16",
+                    "Utility kills per 100 rounds": "1.09",
+                    "Flashes thrown per round": "0.55",
+                    "Flash assists per round": "0.05",
+                    "Time opponent flashed per round": "2.57"
+                },
+                "T": {
+                    "Utility damage per round": "2.74",
+                    "Utility kills per 100 rounds": "0.65",
+                    "Flashes thrown per round": "0.86",
+                    "Flash assists per round": "0.07",
+                    "Time opponent flashed per round": "2.26"
+                }
+            }
+        }
+    },
+    {
+        "name": "Oleksandr Kostyliev",
+        "nickname": "s1mple",
+        "team": "Natus Vincere",
+        "age": "26",
+        "country": "Ukraine",
+        "teammates": [
+            {
+                "full_name": "Ihor",
+                "nickname": "w0nderful",
+                "rating": "1.11"
+            },
+            {
+                "full_name": "Valeriy",
+                "nickname": "b1t",
+                "rating": "1.03"
+            },
+            {
+                "full_name": "Justinas",
+                "nickname": "jL",
+                "rating": "0.96"
+            },
+            {
+                "full_name": "Mihai",
+                "nickname": "iM",
+                "rating": "0.94"
+            },
+            {
+                "full_name": "Aleksi",
+                "nickname": "Aleksib",
+                "rating": "0.87"
+            }
+        ],
+        "summary_stats": {
+            "Rating 1.0": "1.24",
+            "DPR": "0.63",
+            "KAST": "73.9%",
+            "Impact": "1.34",
+            "ADR": "85.4",
+            "KPR": "0.85"
+        },
+        "total_stats": {
+            "Total kills": "38714",
+            "Headshot %": "41.1%",
+            "Total deaths": "29045",
+            "K/D Ratio": "1.33",
+            "Damage / Round": "85.4",
+            "Grenade dmg / Round": "2.5",
+            "Maps played": "1727",
+            "Rounds played": "45750",
+            "Kills / round": "0.85",
+            "Assists / round": "0.10",
+            "Deaths / round": "0.63",
+            "Saved by teammate / round": "0.08",
+            "Saved teammates / round": "0.11",
+            "Rating 1.0": "1.24"
+        },
+        "role_stats": {
+            "Firepower": {
+                "Combined": {
+                    "Kills per round": "0.84",
+                    "Rounds with a kill": "54.0%",
+                    "Kills per round win": "1.15",
+                    "Rating 2.0": "1.24",
+                    "Damage per round": "85.4",
+                    "Rounds with a multi-kill": "22.5%",
+                    "Damage per round win": "89.5",
+                    "Pistol round rating": "-"
+                },
+                "CT": {
+                    "Kills per round": "0.88",
+                    "Rounds with a kill": "56.3%",
+                    "Kills per round win": "1.21",
+                    "Rating 2.0": "-",
+                    "Damage per round": "88.9",
+                    "Rounds with a multi-kill": "23.9%",
+                    "Damage per round win": "92.3",
+                    "Pistol round rating": "-"
+                },
+                "T": {
+                    "Kills per round": "0.80",
+                    "Rounds with a kill": "51.8%",
+                    "Kills per round win": "1.09",
+                    "Rating 2.0": "-",
+                    "Damage per round": "81.8",
+                    "Rounds with a multi-kill": "21.0%",
+                    "Damage per round win": "86.4",
+                    "Pistol round rating": "-"
+                }
+            },
+            "Entrying": {
+                "Combined": {
+                    "Saved by teammate per round": "0.08",
+                    "Traded deaths per round": "0.09",
+                    "Traded deaths percentage": "14.0%",
+                    "Opening deaths traded percentage": "11.9%",
+                    "Assists per round": "0.10",
+                    "Support rounds": "14.2%"
+                },
+                "CT": {
+                    "Saved by teammate per round": "0.06",
+                    "Traded deaths per round": "0.09",
+                    "Traded deaths percentage": "14.5%",
+                    "Opening deaths traded percentage": "10.3%",
+                    "Assists per round": "0.11",
+                    "Support rounds": "13.1%"
+                },
+                "T": {
+                    "Saved by teammate per round": "0.07",
+                    "Traded deaths per round": "0.09",
+                    "Traded deaths percentage": "13.5%",
+                    "Opening deaths traded percentage": "13.5%",
+                    "Assists per round": "0.09",
+                    "Support rounds": "10.5%"
+                }
+            },
+            "Trading": {
+                "Combined": {
+                    "Saved teammate per round": "0.11",
+                    "Trade kills per round": "0.12",
+                    "Trade kills percentage": "14.4%",
+                    "Assisted kills percentage": "16.8%",
+                    "Damage per kill": "79"
+                },
+                "CT": {
+                    "Saved teammate per round": "0.07",
+                    "Trade kills per round": "0.10",
+                    "Trade kills percentage": "11.6%",
+                    "Assisted kills percentage": "17.2%",
+                    "Damage per kill": "79"
+                },
+                "T": {
+                    "Saved teammate per round": "0.10",
+                    "Trade kills per round": "0.14",
+                    "Trade kills percentage": "17.6%",
+                    "Assisted kills percentage": "8.1%",
+                    "Damage per kill": "80"
+                }
+            },
+            "Opening": {
+                "Combined": {
+                    "Opening kills per round": "0.14",
+                    "Opening deaths per round": "0.08",
+                    "Opening attempts": "23.4%",
+                    "Opening success": "61.6%",
+                    "Win% after opening kill": "75.0%",
+                    "Attacks per round": "2.14"
+                },
+                "CT": {
+                    "Opening kills per round": "0.17",
+                    "Opening deaths per round": "0.08",
+                    "Opening attempts": "26.5%",
+                    "Opening success": "66.4%",
+                    "Win% after opening kill": "74.6%",
+                    "Attacks per round": "1.73"
+                },
+                "T": {
+                    "Opening kills per round": "0.11",
+                    "Opening deaths per round": "0.09",
+                    "Opening attempts": "20.2%",
+                    "Opening success": "55.3%",
+                    "Win% after opening kill": "75.6%",
+                    "Attacks per round": "1.66"
+                }
+            },
+            "Clutching": {
+                "Combined": {
+                    "Clutch points per round": "0.02",
+                    "Last alive percentage": "9.9%",
+                    "1on1 win percentage": "63.8%",
+                    "Time alive per round": "0m 57s",
+                    "Saves per round loss": "8.8%"
+                },
+                "CT": {
+                    "Clutch points per round": "0.01",
+                    "Last alive percentage": "7.5%",
+                    "1on1 win percentage": "56.8%",
+                    "Time alive per round": "0m 56s",
+                    "Saves per round loss": "14.2%"
+                },
+                "T": {
+                    "Clutch points per round": "0.03",
+                    "Last alive percentage": "12.4%",
+                    "1on1 win percentage": "70.6%",
+                    "Time alive per round": "0m 59s",
+                    "Saves per round loss": "3.8%"
+                }
+            },
+            "Sniping": {
+                "Combined": {
+                    "Sniper kills per round": "0.32",
+                    "Sniper kills percentage": "38.1%",
+                    "Rounds with sniper kills percentage": "21.6%",
+                    "Sniper multi-kill rounds": "0.08",
+                    "Sniper opening kills per round": "0.06"
+                },
+                "CT": {
+                    "Sniper kills per round": "0.34",
+                    "Sniper kills percentage": "48.5%",
+                    "Rounds with sniper kills percentage": "27.7%",
+                    "Sniper multi-kill rounds": "0.10",
+                    "Sniper opening kills per round": "0.09"
+                },
+                "T": {
+                    "Sniper kills per round": "0.18",
+                    "Sniper kills percentage": "28.8%",
+                    "Rounds with sniper kills percentage": "15.5%",
+                    "Sniper multi-kill rounds": "0.05",
+                    "Sniper opening kills per round": "0.03"
+                }
+            },
+            "Utility": {
+                "Combined": {
+                    "Utility damage per round": "2.46",
+                    "Utility kills per 100 rounds": "0.50",
+                    "Flashes thrown per round": "0.55",
+                    "Flash assists per round": "0.03",
+                    "Time opponent flashed per round": "2.02"
+                },
+                "CT": {
+                    "Utility damage per round": "3.19",
+                    "Utility kills per 100 rounds": "0.49",
+                    "Flashes thrown per round": "0.37",
+                    "Flash assists per round": "0.02",
+                    "Time opponent flashed per round": "2.14"
+                },
+                "T": {
+                    "Utility damage per round": "1.74",
+                    "Utility kills per 100 rounds": "0.40",
+                    "Flashes thrown per round": "0.73",
+                    "Flash assists per round": "0.04",
+                    "Time opponent flashed per round": "1.96"
+                }
+            }
+        }
+    },
+    {
+        "name": "Mathieu Herbaut",
+        "nickname": "ZywOo",
+        "team": "Vitality",
+        "age": "23",
+        "country": "France",
+        "teammates": [
+            {
+                "full_name": "Lotan",
+                "nickname": "Spinx",
+                "rating": "1.13"
+            },
+            {
+                "full_name": "Shahar",
+                "nickname": "flameZ",
+                "rating": "1.11"
+            },
+            {
+                "full_name": "William",
+                "nickname": "mezii",
+                "rating": "1.04"
+            },
+            {
+                "full_name": "Dan",
+                "nickname": "apEX",
+                "rating": "1.01"
+            }
+        ],
+        "summary_stats": {
+            "Rating 2.0": "1.32",
+            "DPR": "0.61",
+            "KAST": "75.4%",
+            "Impact": "1.43",
+            "ADR": "87.3",
+            "KPR": "0.84"
+        },
+        "total_stats": {
+            "Total kills": "29090",
+            "Headshot %": "41.3%",
+            "Total deaths": "20973",
+            "K/D Ratio": "1.39",
+            "Damage / Round": "87.3",
+            "Grenade dmg / Round": "3.7",
+            "Maps played": "1331",
+            "Rounds played": "34566",
+            "Kills / round": "0.84",
+            "Assists / round": "0.13",
+            "Deaths / round": "0.61",
+            "Saved by teammate / round": "0.09",
+            "Saved teammates / round": "0.12",
+            "Rating 2.0": "1.32"
+        },
+        "role_stats": {
+            "Firepower": {
+                "Combined": {
+                    "Kills per round": "0.84",
+                    "Rounds with a kill": "53.0%",
+                    "Kills per round win": "1.14",
+                    "Rating 2.0": "1.32",
+                    "Damage per round": "87.3",
+                    "Rounds with a multi-kill": "22.3%",
+                    "Damage per round win": "113.1",
+                    "Pistol round rating": "1.43"
+                },
+                "CT": {
+                    "Kills per round": "0.90",
+                    "Rounds with a kill": "55.9%",
+                    "Kills per round win": "1.21",
+                    "Rating 2.0": "1.35",
+                    "Damage per round": "91.5",
+                    "Rounds with a multi-kill": "24.5%",
+                    "Damage per round win": "117.5",
+                    "Pistol round rating": "1.43"
+                },
+                "T": {
+                    "Kills per round": "0.77",
+                    "Rounds with a kill": "50.1%",
+                    "Kills per round win": "1.06",
+                    "Rating 2.0": "1.29",
+                    "Damage per round": "83.1",
+                    "Rounds with a multi-kill": "20.0%",
+                    "Damage per round win": "108.3",
+                    "Pistol round rating": "1.42"
+                }
+            },
+            "Entrying": {
+                "Combined": {
+                    "Saved by teammate per round": "0.09",
+                    "Traded deaths per round": "0.13",
+                    "Traded deaths percentage": "21.2%",
+                    "Opening deaths traded percentage": "24.8%",
+                    "Assists per round": "0.13",
+                    "Support rounds": "16.6%"
+                },
+                "CT": {
+                    "Saved by teammate per round": "0.07",
+                    "Traded deaths per round": "0.11",
+                    "Traded deaths percentage": "19.8%",
+                    "Opening deaths traded percentage": "18.6%",
+                    "Assists per round": "0.13",
+                    "Support rounds": "18.0%"
+                },
+                "T": {
+                    "Saved by teammate per round": "0.11",
+                    "Traded deaths per round": "0.15",
+                    "Traded deaths percentage": "22.5%",
+                    "Opening deaths traded percentage": "30.2%",
+                    "Assists per round": "0.12",
+                    "Support rounds": "15.2%"
+                }
+            },
+            "Trading": {
+                "Combined": {
+                    "Saved teammate per round": "0.12",
+                    "Trade kills per round": "0.16",
+                    "Trade kills percentage": "18.8%",
+                    "Assisted kills percentage": "17.6%",
+                    "Damage per kill": "103"
+                },
+                "CT": {
+                    "Saved teammate per round": "0.09",
+                    "Trade kills per round": "0.13",
+                    "Trade kills percentage": "14.5%",
+                    "Assisted kills percentage": "18.8%",
+                    "Damage per kill": "101"
+                },
+                "T": {
+                    "Saved teammate per round": "0.15",
+                    "Trade kills per round": "0.18",
+                    "Trade kills percentage": "23.8%",
+                    "Assisted kills percentage": "4.3%",
+                    "Damage per kill": "106"
+                }
+            },
+            "Opening": {
+                "Combined": {
+                    "Opening kills per round": "0.15",
+                    "Opening deaths per round": "0.09",
+                    "Opening attempts": "24.4%",
+                    "Opening success": "61.8%",
+                    "Win% after opening kill": "73.5%",
+                    "Attacks per round": "2.44"
+                },
+                "CT": {
+                    "Opening kills per round": "0.17",
+                    "Opening deaths per round": "0.08",
+                    "Opening attempts": "26.4%",
+                    "Opening success": "67.7%",
+                    "Win% after opening kill": "72.8%",
+                    "Attacks per round": "2.47"
+                },
+                "T": {
+                    "Opening kills per round": "0.12",
+                    "Opening deaths per round": "0.10",
+                    "Opening attempts": "22.3%",
+                    "Opening success": "54.7%",
+                    "Win% after opening kill": "74.5%",
+                    "Attacks per round": "2.41"
+                }
+            },
+            "Clutching": {
+                "Combined": {
+                    "Clutch points per round": "0.03",
+                    "Last alive percentage": "11.3%",
+                    "1on1 win percentage": "66.9%",
+                    "Time alive per round": "1m 9s",
+                    "Saves per round loss": "8.0%"
+                },
+                "CT": {
+                    "Clutch points per round": "0.02",
+                    "Last alive percentage": "10.0%",
+                    "1on1 win percentage": "60.1%",
+                    "Time alive per round": "1m 8s",
+                    "Saves per round loss": "14.3%"
+                },
+                "T": {
+                    "Clutch points per round": "0.04",
+                    "Last alive percentage": "12.6%",
+                    "1on1 win percentage": "77.4%",
+                    "Time alive per round": "1m 10s",
+                    "Saves per round loss": "2.1%"
+                }
+            },
+            "Sniping": {
+                "Combined": {
+                    "Sniper kills per round": "0.31",
+                    "Sniper kills percentage": "37.1%",
+                    "Rounds with sniper kills percentage": "21.2%",
+                    "Sniper multi-kill rounds": "0.07",
+                    "Sniper opening kills per round": "0.06"
+                },
+                "CT": {
+                    "Sniper kills per round": "0.41",
+                    "Sniper kills percentage": "45.8%",
+                    "Rounds with sniper kills percentage": "27.5%",
+                    "Sniper multi-kill rounds": "0.10",
+                    "Sniper opening kills per round": "0.09"
+                },
+                "T": {
+                    "Sniper kills per round": "0.21",
+                    "Sniper kills percentage": "26.9%",
+                    "Rounds with sniper kills percentage": "14.7%",
+                    "Sniper multi-kill rounds": "0.04",
+                    "Sniper opening kills per round": "0.03"
+                }
+            },
+            "Utility": {
+                "Combined": {
+                    "Utility damage per round": "3.67",
+                    "Utility kills per 100 rounds": "0.95",
+                    "Flashes thrown per round": "0.69",
+                    "Flash assists per round": "0.05",
+                    "Time opponent flashed per round": "2.34"
+                },
+                "CT": {
+                    "Utility damage per round": "4.74",
+                    "Utility kills per 100 rounds": "1.16",
+                    "Flashes thrown per round": "0.58",
+                    "Flash assists per round": "0.05",
+                    "Time opponent flashed per round": "2.64"
+                },
+                "T": {
+                    "Utility damage per round": "2.58",
+                    "Utility kills per 100 rounds": "0.74",
+                    "Flashes thrown per round": "0.81",
+                    "Flash assists per round": "0.06",
+                    "Time opponent flashed per round": "2.13"
+                }
+            }
+        }
+    },
+    null,
+    null,
+    null,
+    null
+]

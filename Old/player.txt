@@ -1,0 +1,30 @@
+<div class="grid teammates">
+                <div class="teammate standard-box"><img alt="Paytyn 'junior' Johnson" src="https://img-cdn.hltv.org/playerbodyshot/ErMloTejH8mU7HRtggcAC1.png?bg=3e4c54&amp;h=200&amp;ixlib=java-2.1.0&amp;rect=121%2C0%2C467%2C467&amp;w=200&amp;s=0c9391c039ab77fac97422928495955b" class="container-width" title="Paytyn 'junior' Johnson">
+                  <div class="teammate-info"><a href="/stats/players/14494/junior" class="image-and-label" data-tooltip-id="uniqueTooltipId-921631260"><img alt="United States" src="/img/static/flags/30x20/US.gif" class="flag" title="United States"><span>junior</span></a>
+                    <div class="hidden" id="uniqueTooltipId-921631260">
+                      <div class="stats-section context-tooltip"><a href="/stats/players/14494/junior" class="context-button"><i class=" fa fa-user" aria-hidden="true"></i>Go to Player</a><a href="/stats/lineup?lineup=17918&amp;lineup=14494&amp;minLineupMatch=2" class="context-button"><i class=" fa fa-bar-chart" aria-hidden="true"></i>Create lineup</a></div>
+                    </div>
+<span>1.18</span></div>
+                </div>
+                <div class="teammate standard-box"><img alt="Jeorge 'Jeorge'  Endicott" src="https://img-cdn.hltv.org/playerbodyshot/vzzqnFmZiaWItaMpOdL-VI.png?bg=3e4c54&amp;h=200&amp;ixlib=java-2.1.0&amp;rect=117%2C0%2C467%2C467&amp;w=200&amp;s=d7411a38de4593c67e08d2678810827b" class="container-width" title="Jeorge 'Jeorge'  Endicott">
+                  <div class="teammate-info"><a href="/stats/players/20333/jeorge" class="image-and-label" data-tooltip-id="uniqueTooltipId--1771643439"><img alt="United States" src="/img/static/flags/30x20/US.gif" class="flag" title="United States"><span>Jeorge</span></a>
+                    <div class="hidden" id="uniqueTooltipId--1771643439">
+                      <div class="stats-section context-tooltip"><a href="/stats/players/20333/jeorge" class="context-button"><i class=" fa fa-user" aria-hidden="true"></i>Go to Player</a><a href="/stats/lineup?lineup=17918&amp;lineup=20333&amp;minLineupMatch=2" class="context-button"><i class=" fa fa-bar-chart" aria-hidden="true"></i>Create lineup</a></div>
+                    </div>
+<span>1.14</span></div>
+                </div>
+                <div class="teammate standard-box"><img alt="William 'RUSH' Wierzba" src="https://img-cdn.hltv.org/playerbodyshot/sKec3ggM2FUzVNNSIPEyj1.png?bg=3e4c54&amp;h=200&amp;ixlib=java-2.1.0&amp;rect=128%2C4%2C447%2C447&amp;w=200&amp;s=f05970758a25f60277643453e52ce2e9" class="container-width" title="William 'RUSH' Wierzba">
+                  <div class="teammate-info"><a href="/stats/players/7805/rush" class="image-and-label" data-tooltip-id="uniqueTooltipId--1621426385"><img alt="United States" src="/img/static/flags/30x20/US.gif" class="flag" title="United States"><span>RUSH</span></a>
+                    <div class="hidden" id="uniqueTooltipId--1621426385">
+                      <div class="stats-section context-tooltip"><a href="/stats/players/7805/rush" class="context-button"><i class=" fa fa-user" aria-hidden="true"></i>Go to Player</a><a href="/stats/lineup?lineup=17918&amp;lineup=7805&amp;minLineupMatch=2" class="context-button"><i class=" fa fa-bar-chart" aria-hidden="true"></i>Create lineup</a></div>
+                    </div>
+<span>1.09</span></div>
+                </div>
+                <div class="teammate standard-box"><img alt="Christopher 'cJ dA K1nG' Jones" src="https://img-cdn.hltv.org/playerbodyshot/_qgijf_GiQkRMsrO_Q3Er6.png?bg=3e4c54&amp;h=200&amp;ixlib=java-2.1.0&amp;rect=128%2C0%2C467%2C467&amp;w=200&amp;s=99bdc783562a4ead3a4f4a103bddd223" class="container-width" title="Christopher 'cJ dA K1nG' Jones">
+                  <div class="teammate-info"><a href="/stats/players/9571/cj-da-k1ng" class="image-and-label" data-tooltip-id="uniqueTooltipId-430786145"><img alt="United States" src="/img/static/flags/30x20/US.gif" class="flag" title="United States"><span>cJ dA K1nG</span></a>
+                    <div class="hidden" id="uniqueTooltipId-430786145">
+                      <div class="stats-section context-tooltip"><a href="/stats/players/9571/cj-da-k1ng" class="context-button"><i class=" fa fa-user" aria-hidden="true"></i>Go to Player</a><a href="/stats/lineup?lineup=17918&amp;lineup=9571&amp;minLineupMatch=2" class="context-button"><i class=" fa fa-bar-chart" aria-hidden="true"></i>Create lineup</a></div>
+                    </div>
+<span>1.07</span></div>
+                </div>
+              </div>

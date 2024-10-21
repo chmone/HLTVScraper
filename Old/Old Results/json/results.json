@@ -1,0 +1,1722 @@
+[
+    {
+        "date": "8 Sep",
+        "teams": [
+            "MIBR",
+            "G2"
+        ],
+        "score": "0:2",
+        "maps": [
+            {
+                "map": "Anubis",
+                "score": "MIBR8STATS(5:7;3:6)G213"
+            },
+            {
+                "map": "Inferno",
+                "score": "MIBR8STATS(5:7;3:6)G213"
+            },
+            {
+                "map": "Ancient",
+                "score": "MIBR-G2-"
+            }
+        ],
+        "players": [
+            {
+                "name": "Rafael 'saffee' Costa",
+                "stats": [
+                    "23-29",
+                    "-6",
+                    "63.7",
+                    "64.3%",
+                    "0.93"
+                ]
+            },
+            {
+                "name": "Breno 'brnz4n' Poletto",
+                "stats": [
+                    "20-29",
+                    "-9",
+                    "59.6",
+                    "69.0%",
+                    "0.85"
+                ]
+            },
+            {
+                "name": "Felipe 'insani' Yuji",
+                "stats": [
+                    "22-29",
+                    "-7",
+                    "59.8",
+                    "59.5%",
+                    "0.81"
+                ]
+            },
+            {
+                "name": "Raphael 'exit' Lacerda",
+                "stats": [
+                    "21-30",
+                    "-9",
+                    "59.6",
+                    "66.7%",
+                    "0.80"
+                ]
+            },
+            {
+                "name": "Andr\u00e9 'drop' Abreu",
+                "stats": [
+                    "22-31",
+                    "-9",
+                    "61.0",
+                    "59.5%",
+                    "0.78"
+                ]
+            },
+            {
+                "name": "Nikola 'NiKo' Kova\u010d",
+                "stats": [
+                    "37-21",
+                    "+16",
+                    "92.9",
+                    "78.6%",
+                    "1.51"
+                ]
+            },
+            {
+                "name": "Mario 'malbsMd' Samayoa",
+                "stats": [
+                    "35-25",
+                    "+10",
+                    "82.7",
+                    "85.7%",
+                    "1.43"
+                ]
+            },
+            {
+                "name": "Nemanja 'huNter-' Kova\u010d",
+                "stats": [
+                    "34-22",
+                    "+12",
+                    "83.6",
+                    "78.6%",
+                    "1.33"
+                ]
+            },
+            {
+                "name": "Ilya 'm0NESY' Osipov",
+                "stats": [
+                    "26-19",
+                    "+7",
+                    "68.0",
+                    "83.3%",
+                    "1.24"
+                ]
+            },
+            {
+                "name": "Janusz 'Snax' Pogorzelski",
+                "stats": [
+                    "13-21",
+                    "-8",
+                    "45.5",
+                    "73.8%",
+                    "0.85"
+                ]
+            },
+            {
+                "name": "Breno 'brnz4n' Poletto",
+                "stats": [
+                    "14-15",
+                    "-1",
+                    "81.2",
+                    "71.4%",
+                    "1.08"
+                ]
+            },
+            {
+                "name": "Rafael 'saffee' Costa",
+                "stats": [
+                    "16-14",
+                    "+2",
+                    "64.3",
+                    "57.1%",
+                    "1.02"
+                ]
+            },
+            {
+                "name": "Andr\u00e9 'drop' Abreu",
+                "stats": [
+                    "10-17",
+                    "-7",
+                    "62.6",
+                    "61.9%",
+                    "0.77"
+                ]
+            },
+            {
+                "name": "Felipe 'insani' Yuji",
+                "stats": [
+                    "9-14",
+                    "-5",
+                    "51.9",
+                    "57.1%",
+                    "0.73"
+                ]
+            },
+            {
+                "name": "Raphael 'exit' Lacerda",
+                "stats": [
+                    "5-16",
+                    "-11",
+                    "43.0",
+                    "57.1%",
+                    "0.52"
+                ]
+            },
+            {
+                "name": "Nikola 'NiKo' Kova\u010d",
+                "stats": [
+                    "22-11",
+                    "+11",
+                    "111.5",
+                    "85.7%",
+                    "1.81"
+                ]
+            },
+            {
+                "name": "Ilya 'm0NESY' Osipov",
+                "stats": [
+                    "15-7",
+                    "+8",
+                    "71.4",
+                    "90.5%",
+                    "1.45"
+                ]
+            },
+            {
+                "name": "Mario 'malbsMd' Samayoa",
+                "stats": [
+                    "19-14",
+                    "+5",
+                    "93.8",
+                    "85.7%",
+                    "1.42"
+                ]
+            },
+            {
+                "name": "Nemanja 'huNter-' Kova\u010d",
+                "stats": [
+                    "15-12",
+                    "+3",
+                    "66.4",
+                    "76.2%",
+                    "1.13"
+                ]
+            },
+            {
+                "name": "Janusz 'Snax' Pogorzelski",
+                "stats": [
+                    "4-10",
+                    "-6",
+                    "35.8",
+                    "66.7%",
+                    "0.76"
+                ]
+            },
+            {
+                "name": "Raphael 'exit' Lacerda",
+                "stats": [
+                    "16-14",
+                    "+2",
+                    "76.1",
+                    "76.2%",
+                    "1.13"
+                ]
+            },
+            {
+                "name": "Felipe 'insani' Yuji",
+                "stats": [
+                    "13-15",
+                    "-2",
+                    "67.6",
+                    "61.9%",
+                    "0.89"
+                ]
+            },
+            {
+                "name": "Rafael 'saffee' Costa",
+                "stats": [
+                    "7-15",
+                    "-8",
+                    "63.2",
+                    "71.4%",
+                    "0.84"
+                ]
+            },
+            {
+                "name": "Andr\u00e9 'drop' Abreu",
+                "stats": [
+                    "12-14",
+                    "-2",
+                    "59.5",
+                    "57.1%",
+                    "0.80"
+                ]
+            },
+            {
+                "name": "Breno 'brnz4n' Poletto",
+                "stats": [
+                    "6-14",
+                    "-8",
+                    "38.0",
+                    "66.7%",
+                    "0.65"
+                ]
+            },
+            {
+                "name": "Nemanja 'huNter-' Kova\u010d",
+                "stats": [
+                    "19-10",
+                    "+9",
+                    "100.8",
+                    "81.0%",
+                    "1.56"
+                ]
+            },
+            {
+                "name": "Mario 'malbsMd' Samayoa",
+                "stats": [
+                    "16-11",
+                    "+5",
+                    "71.6",
+                    "85.7%",
+                    "1.46"
+                ]
+            },
+            {
+                "name": "Nikola 'NiKo' Kova\u010d",
+                "stats": [
+                    "15-10",
+                    "+5",
+                    "74.2",
+                    "71.4%",
+                    "1.25"
+                ]
+            },
+            {
+                "name": "Ilya 'm0NESY' Osipov",
+                "stats": [
+                    "11-12",
+                    "-1",
+                    "64.6",
+                    "76.2%",
+                    "1.04"
+                ]
+            },
+            {
+                "name": "Janusz 'Snax' Pogorzelski",
+                "stats": [
+                    "9-11",
+                    "-2",
+                    "55.1",
+                    "81.0%",
+                    "0.95"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "8 Sep",
+        "teams": [
+            "Sangal",
+            "HEROIC"
+        ],
+        "score": "0:2",
+        "maps": [
+            {
+                "map": "Mirage",
+                "score": "Sangal11STATS(2:10;9:3)HEROIC13"
+            },
+            {
+                "map": "Nuke",
+                "score": "Sangal9STATS(7:5;2:8)HEROIC13"
+            },
+            {
+                "map": "Ancient",
+                "score": "Sangal-HEROIC-"
+            }
+        ],
+        "players": [
+            {
+                "name": "Yasin 'xfl0ud' Ko\u00e7",
+                "stats": [
+                    "32-35",
+                    "-3",
+                    "78.5",
+                    "58.7%",
+                    "1.01"
+                ]
+            },
+            {
+                "name": "Simon 'yxngstxr' Boije",
+                "stats": [
+                    "30-34",
+                    "-4",
+                    "75.3",
+                    "56.5%",
+                    "0.95"
+                ]
+            },
+            {
+                "name": "Samet 'jottAAA' K\u00f6kl\u00fc",
+                "stats": [
+                    "26-36",
+                    "-10",
+                    "76.4",
+                    "67.4%",
+                    "0.89"
+                ]
+            },
+            {
+                "name": "Dawid 'SaMey' Sta\u0144czak",
+                "stats": [
+                    "29-32",
+                    "-3",
+                    "56.8",
+                    "65.2%",
+                    "0.86"
+                ]
+            },
+            {
+                "name": "Linus 'LNZ' Holt\u00e4ng",
+                "stats": [
+                    "26-35",
+                    "-9",
+                    "63.8",
+                    "67.4%",
+                    "0.84"
+                ]
+            },
+            {
+                "name": "Guy 'NertZ' Iluz",
+                "stats": [
+                    "43-29",
+                    "+14",
+                    "115.9",
+                    "76.1%",
+                    "1.59"
+                ]
+            },
+            {
+                "name": "Ren\u00e9 'TeSeS' Madsen",
+                "stats": [
+                    "35-31",
+                    "+4",
+                    "84.1",
+                    "78.3%",
+                    "1.24"
+                ]
+            },
+            {
+                "name": "Abdul 'degster' Gasanov",
+                "stats": [
+                    "38-26",
+                    "+12",
+                    "70.7",
+                    "71.7%",
+                    "1.19"
+                ]
+            },
+            {
+                "name": "Damjan 'kyxsan' Stoilkovski",
+                "stats": [
+                    "32-27",
+                    "+5",
+                    "69.7",
+                    "80.4%",
+                    "1.11"
+                ]
+            },
+            {
+                "name": "Rasmus 'sjuush' Beck",
+                "stats": [
+                    "23-30",
+                    "-7",
+                    "57.6",
+                    "73.9%",
+                    "0.91"
+                ]
+            },
+            {
+                "name": "Linus 'LNZ' Holt\u00e4ng",
+                "stats": [
+                    "15-16",
+                    "-1",
+                    "81.5",
+                    "75.0%",
+                    "1.01"
+                ]
+            },
+            {
+                "name": "Yasin 'xfl0ud' Ko\u00e7",
+                "stats": [
+                    "15-19",
+                    "-4",
+                    "77.7",
+                    "62.5%",
+                    "1.00"
+                ]
+            },
+            {
+                "name": "Simon 'yxngstxr' Boije",
+                "stats": [
+                    "16-17",
+                    "-1",
+                    "79.9",
+                    "58.3%",
+                    "0.93"
+                ]
+            },
+            {
+                "name": "Dawid 'SaMey' Sta\u0144czak",
+                "stats": [
+                    "14-16",
+                    "-2",
+                    "49.2",
+                    "66.7%",
+                    "0.83"
+                ]
+            },
+            {
+                "name": "Samet 'jottAAA' K\u00f6kl\u00fc",
+                "stats": [
+                    "13-21",
+                    "-8",
+                    "67.8",
+                    "66.7%",
+                    "0.80"
+                ]
+            },
+            {
+                "name": "Guy 'NertZ' Iluz",
+                "stats": [
+                    "28-16",
+                    "+12",
+                    "142.6",
+                    "87.5%",
+                    "2.01"
+                ]
+            },
+            {
+                "name": "Abdul 'degster' Gasanov",
+                "stats": [
+                    "20-12",
+                    "+8",
+                    "68.5",
+                    "70.8%",
+                    "1.17"
+                ]
+            },
+            {
+                "name": "Ren\u00e9 'TeSeS' Madsen",
+                "stats": [
+                    "18-17",
+                    "+1",
+                    "79.9",
+                    "70.8%",
+                    "1.15"
+                ]
+            },
+            {
+                "name": "Damjan 'kyxsan' Stoilkovski",
+                "stats": [
+                    "11-13",
+                    "-2",
+                    "57.6",
+                    "83.3%",
+                    "0.93"
+                ]
+            },
+            {
+                "name": "Rasmus 'sjuush' Beck",
+                "stats": [
+                    "11-15",
+                    "-4",
+                    "45.9",
+                    "70.8%",
+                    "0.80"
+                ]
+            },
+            {
+                "name": "Yasin 'xfl0ud' Ko\u00e7",
+                "stats": [
+                    "17-16",
+                    "+1",
+                    "79.5",
+                    "54.5%",
+                    "1.02"
+                ]
+            },
+            {
+                "name": "Samet 'jottAAA' K\u00f6kl\u00fc",
+                "stats": [
+                    "13-15",
+                    "-2",
+                    "85.9",
+                    "68.2%",
+                    "1.01"
+                ]
+            },
+            {
+                "name": "Simon 'yxngstxr' Boije",
+                "stats": [
+                    "14-17",
+                    "-3",
+                    "70.2",
+                    "54.5%",
+                    "0.99"
+                ]
+            },
+            {
+                "name": "Dawid 'SaMey' Sta\u0144czak",
+                "stats": [
+                    "15-16",
+                    "-1",
+                    "65.0",
+                    "63.6%",
+                    "0.90"
+                ]
+            },
+            {
+                "name": "Linus 'LNZ' Holt\u00e4ng",
+                "stats": [
+                    "11-19",
+                    "-8",
+                    "44.4",
+                    "59.1%",
+                    "0.67"
+                ]
+            },
+            {
+                "name": "Ren\u00e9 'TeSeS' Madsen",
+                "stats": [
+                    "17-14",
+                    "+3",
+                    "88.7",
+                    "86.4%",
+                    "1.33"
+                ]
+            },
+            {
+                "name": "Damjan 'kyxsan' Stoilkovski",
+                "stats": [
+                    "21-14",
+                    "+7",
+                    "82.8",
+                    "77.3%",
+                    "1.32"
+                ]
+            },
+            {
+                "name": "Abdul 'degster' Gasanov",
+                "stats": [
+                    "18-14",
+                    "+4",
+                    "73.1",
+                    "72.7%",
+                    "1.22"
+                ]
+            },
+            {
+                "name": "Guy 'NertZ' Iluz",
+                "stats": [
+                    "15-13",
+                    "+2",
+                    "86.7",
+                    "63.6%",
+                    "1.17"
+                ]
+            },
+            {
+                "name": "Rasmus 'sjuush' Beck",
+                "stats": [
+                    "12-15",
+                    "-3",
+                    "70.4",
+                    "77.3%",
+                    "1.03"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "8 Sep",
+        "teams": [
+            "The MongolZ",
+            "3DMAX"
+        ],
+        "score": "2:0",
+        "maps": [
+            {
+                "map": "Anubis",
+                "score": "TheMongolZ13STATS(7:5;6:3)3DMAX8"
+            },
+            {
+                "map": "Ancient",
+                "score": "TheMongolZ13STATS(8:4;5:3)3DMAX7"
+            },
+            {
+                "map": "Inferno",
+                "score": "TheMongolZ-3DMAX-"
+            }
+        ],
+        "players": [
+            {
+                "name": "Sodbayar 'Techno' Munkhbold",
+                "stats": [
+                    "36-25",
+                    "+11",
+                    "100.4",
+                    "85.4%",
+                    "1.56"
+                ]
+            },
+            {
+                "name": "Ayush 'mzinho' Batbold",
+                "stats": [
+                    "35-26",
+                    "+9",
+                    "89.2",
+                    "85.4%",
+                    "1.34"
+                ]
+            },
+            {
+                "name": "Usukhbayar '910' Banzragch",
+                "stats": [
+                    "28-23",
+                    "+5",
+                    "60.7",
+                    "87.8%",
+                    "1.20"
+                ]
+            },
+            {
+                "name": "Garidmagnai 'bLitz' Byambasuren",
+                "stats": [
+                    "28-30",
+                    "-2",
+                    "81.4",
+                    "75.6%",
+                    "1.07"
+                ]
+            },
+            {
+                "name": "Munkhbold 'Senzu' Azbayar",
+                "stats": [
+                    "23-26",
+                    "-3",
+                    "64.7",
+                    "68.3%",
+                    "0.92"
+                ]
+            },
+            {
+                "name": "Bryan 'Maka' Canda",
+                "stats": [
+                    "33-32",
+                    "+1",
+                    "83.0",
+                    "75.6%",
+                    "1.11"
+                ]
+            },
+            {
+                "name": "Pierre 'Ex3rcice' Bulinge",
+                "stats": [
+                    "30-30",
+                    "0",
+                    "72.4",
+                    "75.6%",
+                    "1.11"
+                ]
+            },
+            {
+                "name": "Filip 'Graviti' Brankovic",
+                "stats": [
+                    "27-29",
+                    "-2",
+                    "81.2",
+                    "75.6%",
+                    "1.06"
+                ]
+            },
+            {
+                "name": "Lucas 'Lucky' Chastang",
+                "stats": [
+                    "21-30",
+                    "-9",
+                    "74.6",
+                    "75.6%",
+                    "0.99"
+                ]
+            },
+            {
+                "name": "Thomas 'Djoko' Pavoni",
+                "stats": [
+                    "19-30",
+                    "-11",
+                    "50.0",
+                    "61.0%",
+                    "0.68"
+                ]
+            },
+            {
+                "name": "Sodbayar 'Techno' Munkhbold",
+                "stats": [
+                    "18-11",
+                    "+7",
+                    "80.4",
+                    "85.7%",
+                    "1.44"
+                ]
+            },
+            {
+                "name": "Ayush 'mzinho' Batbold",
+                "stats": [
+                    "16-13",
+                    "+3",
+                    "87.0",
+                    "76.2%",
+                    "1.22"
+                ]
+            },
+            {
+                "name": "Usukhbayar '910' Banzragch",
+                "stats": [
+                    "12-13",
+                    "-1",
+                    "58.1",
+                    "85.7%",
+                    "1.09"
+                ]
+            },
+            {
+                "name": "Munkhbold 'Senzu' Azbayar",
+                "stats": [
+                    "13-16",
+                    "-3",
+                    "76.4",
+                    "71.4%",
+                    "0.99"
+                ]
+            },
+            {
+                "name": "Garidmagnai 'bLitz' Byambasuren",
+                "stats": [
+                    "13-15",
+                    "-2",
+                    "73.6",
+                    "61.9%",
+                    "0.89"
+                ]
+            },
+            {
+                "name": "Bryan 'Maka' Canda",
+                "stats": [
+                    "18-13",
+                    "+5",
+                    "88.2",
+                    "76.2%",
+                    "1.30"
+                ]
+            },
+            {
+                "name": "Filip 'Graviti' Brankovic",
+                "stats": [
+                    "17-14",
+                    "+3",
+                    "92.6",
+                    "85.7%",
+                    "1.26"
+                ]
+            },
+            {
+                "name": "Lucas 'Lucky' Chastang",
+                "stats": [
+                    "13-14",
+                    "-1",
+                    "78.0",
+                    "81.0%",
+                    "1.20"
+                ]
+            },
+            {
+                "name": "Pierre 'Ex3rcice' Bulinge",
+                "stats": [
+                    "11-16",
+                    "-5",
+                    "67.0",
+                    "66.7%",
+                    "0.94"
+                ]
+            },
+            {
+                "name": "Thomas 'Djoko' Pavoni",
+                "stats": [
+                    "9-16",
+                    "-7",
+                    "46.2",
+                    "57.1%",
+                    "0.67"
+                ]
+            },
+            {
+                "name": "Sodbayar 'Techno' Munkhbold",
+                "stats": [
+                    "18-14",
+                    "+4",
+                    "121.3",
+                    "85.0%",
+                    "1.71"
+                ]
+            },
+            {
+                "name": "Ayush 'mzinho' Batbold",
+                "stats": [
+                    "19-13",
+                    "+6",
+                    "91.5",
+                    "95.0%",
+                    "1.48"
+                ]
+            },
+            {
+                "name": "Usukhbayar '910' Banzragch",
+                "stats": [
+                    "16-10",
+                    "+6",
+                    "63.4",
+                    "90.0%",
+                    "1.31"
+                ]
+            },
+            {
+                "name": "Garidmagnai 'bLitz' Byambasuren",
+                "stats": [
+                    "15-15",
+                    "0",
+                    "89.5",
+                    "90.0%",
+                    "1.27"
+                ]
+            },
+            {
+                "name": "Munkhbold 'Senzu' Azbayar",
+                "stats": [
+                    "10-10",
+                    "0",
+                    "52.5",
+                    "65.0%",
+                    "0.86"
+                ]
+            },
+            {
+                "name": "Pierre 'Ex3rcice' Bulinge",
+                "stats": [
+                    "19-14",
+                    "+5",
+                    "78.1",
+                    "85.0%",
+                    "1.30"
+                ]
+            },
+            {
+                "name": "Bryan 'Maka' Canda",
+                "stats": [
+                    "15-19",
+                    "-4",
+                    "77.5",
+                    "75.0%",
+                    "0.93"
+                ]
+            },
+            {
+                "name": "Filip 'Graviti' Brankovic",
+                "stats": [
+                    "10-15",
+                    "-5",
+                    "69.3",
+                    "65.0%",
+                    "0.85"
+                ]
+            },
+            {
+                "name": "Lucas 'Lucky' Chastang",
+                "stats": [
+                    "8-16",
+                    "-8",
+                    "71.0",
+                    "70.0%",
+                    "0.78"
+                ]
+            },
+            {
+                "name": "Thomas 'Djoko' Pavoni",
+                "stats": [
+                    "10-14",
+                    "-4",
+                    "54.1",
+                    "65.0%",
+                    "0.69"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "7 Sep",
+        "teams": [
+            "Eternal Fire",
+            "Natus Vincere"
+        ],
+        "score": "0:2",
+        "maps": [
+            {
+                "map": "Anubis",
+                "score": "EternalFire20STATS(5:7;7:5)(8:10)NatusVincere22"
+            },
+            {
+                "map": "Mirage",
+                "score": "EternalFire5STATS(2:10;3:3)NatusVincere13"
+            },
+            {
+                "map": "Inferno",
+                "score": "EternalFire-NatusVincere-"
+            }
+        ],
+        "players": [
+            {
+                "name": "Ali 'Wicadia' Haydar Yal\u00e7\u0131n",
+                "stats": [
+                    "41-41",
+                    "0",
+                    "78.3",
+                    "66.7%",
+                    "1.02"
+                ]
+            },
+            {
+                "name": "Ismailcan 'XANTARES' D\u00f6rtkarde\u015f",
+                "stats": [
+                    "38-45",
+                    "-7",
+                    "72.3",
+                    "70.0%",
+                    "0.96"
+                ]
+            },
+            {
+                "name": "Bu\u011fra 'Calyx' Ark\u0131n",
+                "stats": [
+                    "39-44",
+                    "-5",
+                    "68.8",
+                    "70.0%",
+                    "0.93"
+                ]
+            },
+            {
+                "name": "\u00d6zg\u00fcr 'woxic' Eker",
+                "stats": [
+                    "28-43",
+                    "-15",
+                    "52.9",
+                    "65.0%",
+                    "0.77"
+                ]
+            },
+            {
+                "name": "Engin 'MAJ3R' K\u00fcpeli",
+                "stats": [
+                    "25-47",
+                    "-22",
+                    "51.9",
+                    "63.3%",
+                    "0.67"
+                ]
+            },
+            {
+                "name": "Justinas 'jL' Lekavicius",
+                "stats": [
+                    "60-34",
+                    "+26",
+                    "101.5",
+                    "83.3%",
+                    "1.59"
+                ]
+            },
+            {
+                "name": "Ihor 'w0nderful' Zhdanov",
+                "stats": [
+                    "50-29",
+                    "+21",
+                    "74.5",
+                    "81.7%",
+                    "1.29"
+                ]
+            },
+            {
+                "name": "Mihai 'iM' Ivan",
+                "stats": [
+                    "34-35",
+                    "-1",
+                    "71.1",
+                    "78.3%",
+                    "1.11"
+                ]
+            },
+            {
+                "name": "Valeriy 'b1t' Vakhovskiy",
+                "stats": [
+                    "39-42",
+                    "-3",
+                    "78.6",
+                    "73.3%",
+                    "1.09"
+                ]
+            },
+            {
+                "name": "Aleksi 'Aleksib' Virolainen",
+                "stats": [
+                    "33-35",
+                    "-2",
+                    "64.1",
+                    "73.3%",
+                    "1.03"
+                ]
+            },
+            {
+                "name": "Ali 'Wicadia' Haydar Yal\u00e7\u0131n",
+                "stats": [
+                    "26-25",
+                    "+1",
+                    "71.4",
+                    "69.0%",
+                    "1.05"
+                ]
+            },
+            {
+                "name": "Ismailcan 'XANTARES' D\u00f6rtkarde\u015f",
+                "stats": [
+                    "29-32",
+                    "-3",
+                    "75.4",
+                    "66.7%",
+                    "1.01"
+                ]
+            },
+            {
+                "name": "Bu\u011fra 'Calyx' Ark\u0131n",
+                "stats": [
+                    "28-28",
+                    "0",
+                    "72.5",
+                    "73.8%",
+                    "1.01"
+                ]
+            },
+            {
+                "name": "\u00d6zg\u00fcr 'woxic' Eker",
+                "stats": [
+                    "21-28",
+                    "-7",
+                    "52.1",
+                    "69.0%",
+                    "0.84"
+                ]
+            },
+            {
+                "name": "Engin 'MAJ3R' K\u00fcpeli",
+                "stats": [
+                    "19-32",
+                    "-13",
+                    "55.3",
+                    "64.3%",
+                    "0.75"
+                ]
+            },
+            {
+                "name": "Justinas 'jL' Lekavicius",
+                "stats": [
+                    "40-25",
+                    "+15",
+                    "96.7",
+                    "78.6%",
+                    "1.50"
+                ]
+            },
+            {
+                "name": "Ihor 'w0nderful' Zhdanov",
+                "stats": [
+                    "33-22",
+                    "+11",
+                    "73.8",
+                    "81.0%",
+                    "1.24"
+                ]
+            },
+            {
+                "name": "Valeriy 'b1t' Vakhovskiy",
+                "stats": [
+                    "29-29",
+                    "0",
+                    "88.3",
+                    "73.8%",
+                    "1.14"
+                ]
+            },
+            {
+                "name": "Mihai 'iM' Ivan",
+                "stats": [
+                    "22-23",
+                    "-1",
+                    "62.4",
+                    "76.2%",
+                    "1.04"
+                ]
+            },
+            {
+                "name": "Aleksi 'Aleksib' Virolainen",
+                "stats": [
+                    "19-26",
+                    "-7",
+                    "53.6",
+                    "69.0%",
+                    "0.84"
+                ]
+            },
+            {
+                "name": "Ali 'Wicadia' Haydar Yal\u00e7\u0131n",
+                "stats": [
+                    "15-16",
+                    "-1",
+                    "94.5",
+                    "61.1%",
+                    "0.99"
+                ]
+            },
+            {
+                "name": "Ismailcan 'XANTARES' D\u00f6rtkarde\u015f",
+                "stats": [
+                    "9-13",
+                    "-4",
+                    "65.0",
+                    "77.8%",
+                    "0.85"
+                ]
+            },
+            {
+                "name": "Bu\u011fra 'Calyx' Ark\u0131n",
+                "stats": [
+                    "11-16",
+                    "-5",
+                    "59.9",
+                    "61.1%",
+                    "0.78"
+                ]
+            },
+            {
+                "name": "\u00d6zg\u00fcr 'woxic' Eker",
+                "stats": [
+                    "7-15",
+                    "-8",
+                    "54.9",
+                    "55.6%",
+                    "0.60"
+                ]
+            },
+            {
+                "name": "Engin 'MAJ3R' K\u00fcpeli",
+                "stats": [
+                    "6-15",
+                    "-9",
+                    "44.1",
+                    "61.1%",
+                    "0.49"
+                ]
+            },
+            {
+                "name": "Justinas 'jL' Lekavicius",
+                "stats": [
+                    "20-9",
+                    "+11",
+                    "112.8",
+                    "94.4%",
+                    "1.82"
+                ]
+            },
+            {
+                "name": "Aleksi 'Aleksib' Virolainen",
+                "stats": [
+                    "14-9",
+                    "+5",
+                    "88.5",
+                    "83.3%",
+                    "1.49"
+                ]
+            },
+            {
+                "name": "Ihor 'w0nderful' Zhdanov",
+                "stats": [
+                    "17-7",
+                    "+10",
+                    "76.0",
+                    "83.3%",
+                    "1.41"
+                ]
+            },
+            {
+                "name": "Mihai 'iM' Ivan",
+                "stats": [
+                    "12-12",
+                    "0",
+                    "91.3",
+                    "83.3%",
+                    "1.30"
+                ]
+            },
+            {
+                "name": "Valeriy 'b1t' Vakhovskiy",
+                "stats": [
+                    "10-13",
+                    "-3",
+                    "56.0",
+                    "72.2%",
+                    "0.99"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "7 Sep",
+        "teams": [
+            "HEROIC",
+            "Ninjas in Pyjamas"
+        ],
+        "score": "2:1",
+        "maps": [
+            {
+                "map": "Ancient",
+                "score": "HEROIC13STATS(6:6;6:6)(1:4)NinjasinPyjamas16"
+            },
+            {
+                "map": "Nuke",
+                "score": "HEROIC13STATS(6:6;7:1)NinjasinPyjamas7"
+            },
+            {
+                "map": "Anubis",
+                "score": "HEROIC13STATS(8:4;5:2)NinjasinPyjamas6"
+            }
+        ],
+        "players": [
+            {
+                "name": "Damjan 'kyxsan' Stoilkovski",
+                "stats": [
+                    "51-43",
+                    "+8",
+                    "83.0",
+                    "76.5%",
+                    "1.25"
+                ]
+            },
+            {
+                "name": "Guy 'NertZ' Iluz",
+                "stats": [
+                    "51-43",
+                    "+8",
+                    "84.1",
+                    "75.0%",
+                    "1.19"
+                ]
+            },
+            {
+                "name": "Rasmus 'sjuush' Beck",
+                "stats": [
+                    "48-43",
+                    "+5",
+                    "75.1",
+                    "80.9%",
+                    "1.17"
+                ]
+            },
+            {
+                "name": "Abdul 'degster' Gasanov",
+                "stats": [
+                    "42-41",
+                    "+1",
+                    "64.1",
+                    "83.8%",
+                    "1.05"
+                ]
+            },
+            {
+                "name": "Ren\u00e9 'TeSeS' Madsen",
+                "stats": [
+                    "41-46",
+                    "-5",
+                    "68.7",
+                    "75.0%",
+                    "1.03"
+                ]
+            },
+            {
+                "name": "Artem 'r1nkle' Moroz",
+                "stats": [
+                    "50-44",
+                    "+6",
+                    "69.3",
+                    "75.0%",
+                    "1.12"
+                ]
+            },
+            {
+                "name": "Fredrik 'REZ' Sterner",
+                "stats": [
+                    "42-47",
+                    "-5",
+                    "70.8",
+                    "72.1%",
+                    "0.99"
+                ]
+            },
+            {
+                "name": "Max 'maxster' Jansson",
+                "stats": [
+                    "45-45",
+                    "0",
+                    "67.9",
+                    "73.5%",
+                    "0.99"
+                ]
+            },
+            {
+                "name": "Isak 'isak' Fahl\u00e9n",
+                "stats": [
+                    "40-48",
+                    "-8",
+                    "70.8",
+                    "61.8%",
+                    "0.96"
+                ]
+            },
+            {
+                "name": "Alejandro 'alex' Masanet",
+                "stats": [
+                    "37-50",
+                    "-13",
+                    "74.4",
+                    "75.0%",
+                    "0.90"
+                ]
+            },
+            {
+                "name": "Damjan 'kyxsan' Stoilkovski",
+                "stats": [
+                    "22-22",
+                    "0",
+                    "87.2",
+                    "75.9%",
+                    "1.25"
+                ]
+            },
+            {
+                "name": "Abdul 'degster' Gasanov",
+                "stats": [
+                    "19-20",
+                    "-1",
+                    "67.1",
+                    "86.2%",
+                    "1.07"
+                ]
+            },
+            {
+                "name": "Guy 'NertZ' Iluz",
+                "stats": [
+                    "21-21",
+                    "0",
+                    "81.8",
+                    "69.0%",
+                    "1.04"
+                ]
+            },
+            {
+                "name": "Rasmus 'sjuush' Beck",
+                "stats": [
+                    "14-19",
+                    "-5",
+                    "58.4",
+                    "82.8%",
+                    "1.03"
+                ]
+            },
+            {
+                "name": "Ren\u00e9 'TeSeS' Madsen",
+                "stats": [
+                    "19-21",
+                    "-2",
+                    "71.7",
+                    "69.0%",
+                    "1.01"
+                ]
+            },
+            {
+                "name": "Artem 'r1nkle' Moroz",
+                "stats": [
+                    "26-19",
+                    "+7",
+                    "76.4",
+                    "82.8%",
+                    "1.35"
+                ]
+            },
+            {
+                "name": "Isak 'isak' Fahl\u00e9n",
+                "stats": [
+                    "20-19",
+                    "+1",
+                    "70.1",
+                    "75.9%",
+                    "1.13"
+                ]
+            },
+            {
+                "name": "Max 'maxster' Jansson",
+                "stats": [
+                    "20-18",
+                    "+2",
+                    "75.3",
+                    "75.9%",
+                    "1.10"
+                ]
+            },
+            {
+                "name": "Fredrik 'REZ' Sterner",
+                "stats": [
+                    "18-18",
+                    "0",
+                    "76.4",
+                    "75.9%",
+                    "1.03"
+                ]
+            },
+            {
+                "name": "Alejandro 'alex' Masanet",
+                "stats": [
+                    "18-21",
+                    "-3",
+                    "82.0",
+                    "65.5%",
+                    "0.92"
+                ]
+            },
+            {
+                "name": "Damjan 'kyxsan' Stoilkovski",
+                "stats": [
+                    "16-10",
+                    "+6",
+                    "81.6",
+                    "65.0%",
+                    "1.28"
+                ]
+            },
+            {
+                "name": "Rasmus 'sjuush' Beck",
+                "stats": [
+                    "20-15",
+                    "+5",
+                    "89.9",
+                    "70.0%",
+                    "1.25"
+                ]
+            },
+            {
+                "name": "Ren\u00e9 'TeSeS' Madsen",
+                "stats": [
+                    "14-13",
+                    "+1",
+                    "79.8",
+                    "75.0%",
+                    "1.09"
+                ]
+            },
+            {
+                "name": "Abdul 'degster' Gasanov",
+                "stats": [
+                    "13-13",
+                    "0",
+                    "64.5",
+                    "75.0%",
+                    "1.06"
+                ]
+            },
+            {
+                "name": "Guy 'NertZ' Iluz",
+                "stats": [
+                    "9-14",
+                    "-5",
+                    "73.8",
+                    "80.0%",
+                    "0.98"
+                ]
+            },
+            {
+                "name": "Isak 'isak' Fahl\u00e9n",
+                "stats": [
+                    "13-14",
+                    "-1",
+                    "94.0",
+                    "60.0%",
+                    "1.11"
+                ]
+            },
+            {
+                "name": "Fredrik 'REZ' Sterner",
+                "stats": [
+                    "15-15",
+                    "0",
+                    "71.6",
+                    "70.0%",
+                    "1.07"
+                ]
+            },
+            {
+                "name": "Max 'maxster' Jansson",
+                "stats": [
+                    "16-15",
+                    "+1",
+                    "73.9",
+                    "65.0%",
+                    "0.96"
+                ]
+            },
+            {
+                "name": "Alejandro 'alex' Masanet",
+                "stats": [
+                    "10-15",
+                    "-5",
+                    "71.7",
+                    "85.0%",
+                    "0.88"
+                ]
+            },
+            {
+                "name": "Artem 'r1nkle' Moroz",
+                "stats": [
+                    "10-14",
+                    "-4",
+                    "45.0",
+                    "50.0%",
+                    "0.76"
+                ]
+            },
+            {
+                "name": "Guy 'NertZ' Iluz",
+                "stats": [
+                    "21-8",
+                    "+13",
+                    "98.6",
+                    "78.9%",
+                    "1.69"
+                ]
+            },
+            {
+                "name": "Rasmus 'sjuush' Beck",
+                "stats": [
+                    "14-9",
+                    "+5",
+                    "85.0",
+                    "89.5%",
+                    "1.33"
+                ]
+            },
+            {
+                "name": "Damjan 'kyxsan' Stoilkovski",
+                "stats": [
+                    "13-11",
+                    "+2",
+                    "78.1",
+                    "89.5%",
+                    "1.25"
+                ]
+            },
+            {
+                "name": "Abdul 'degster' Gasanov",
+                "stats": [
+                    "10-8",
+                    "+2",
+                    "59.1",
+                    "89.5%",
+                    "1.05"
+                ]
+            },
+            {
+                "name": "Ren\u00e9 'TeSeS' Madsen",
+                "stats": [
+                    "8-12",
+                    "-4",
+                    "52.3",
+                    "84.2%",
+                    "1.01"
+                ]
+            },
+            {
+                "name": "Artem 'r1nkle' Moroz",
+                "stats": [
+                    "14-11",
+                    "+3",
+                    "84.2",
+                    "89.5%",
+                    "1.24"
+                ]
+            },
+            {
+                "name": "Alejandro 'alex' Masanet",
+                "stats": [
+                    "9-14",
+                    "-5",
+                    "65.6",
+                    "78.9%",
+                    "0.94"
+                ]
+            },
+            {
+                "name": "Fredrik 'REZ' Sterner",
+                "stats": [
+                    "9-14",
+                    "-5",
+                    "61.3",
+                    "68.4%",
+                    "0.90"
+                ]
+            },
+            {
+                "name": "Max 'maxster' Jansson",
+                "stats": [
+                    "9-12",
+                    "-3",
+                    "50.2",
+                    "78.9%",
+                    "0.86"
+                ]
+            },
+            {
+                "name": "Isak 'isak' Fahl\u00e9n",
+                "stats": [
+                    "7-15",
+                    "-8",
+                    "47.5",
+                    "42.1%",
+                    "0.58"
+                ]
+            }
+        ]
+    }
+]

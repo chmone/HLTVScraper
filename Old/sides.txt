@@ -1,0 +1,313 @@
+<div class="role-stats-section role-firepower">
+                  <div class="role-stats-section-title-wrapper stats-side-combined">
+                    <div class="role-stats-section-title">
+                      <div class="role-stats-section-icon-container"><svg class="role-stats-section-icon" width="18" height="18" viewBox="0 0 18 18" fill="currentColor" xmlns="http://www.w3.org/2000/svg" data-darkreader-inline-fill="" style="--darkreader-inline-fill: currentColor;">
+<g clip-path="url(#clip0_117_351)">
+<path d="M12.9386 3.58207V5.45407H9.49158C8.71758 5.45407 8.01558 5.71507 7.45758 6.17407H7.44858C7.12458 6.17407 6.87258 5.91307 6.88158 5.58907V3.58207C6.88158 3.25807 7.13358 2.99707 7.45758 2.99707H12.3536C12.6776 2.99707 12.9386 3.25807 12.9386 3.58207Z"></path>
+<path d="M15.9536 4.50907C15.9536 4.50907 15.9806 4.61707 15.9536 4.66207L15.8726 4.78807C15.6746 5.08507 15.4136 5.33707 15.1166 5.54407C14.9096 5.49007 14.6936 5.46307 14.4776 5.45407H13.7036V3.15907C13.7036 3.15907 13.7486 3.07807 13.7936 3.08707L14.3156 3.24907C14.9546 3.43807 15.5126 3.84307 15.8726 4.39207L15.9536 4.50907Z"></path>
+<path d="M4.30758 5.03107H0.446582C0.203582 5.03107 0.00558203 4.83307 0.00558203 4.58107C0.00558203 4.32907 0.203582 4.13107 0.455582 4.13107H4.30758C4.55958 4.13107 4.75758 4.32907 4.75758 4.58107C4.75758 4.83307 4.55958 5.03107 4.30758 5.03107Z"></path>
+<path d="M12.9386 12.5461V14.4181C12.9386 14.7421 12.6776 15.0031 12.3536 15.0031H7.45758C7.13358 15.0031 6.87258 14.7421 6.88158 14.4181V12.4111C6.88158 12.0871 7.12458 11.8351 7.44858 11.8261H7.45758C8.01558 12.2851 8.71758 12.5461 9.49158 12.5461H12.9386Z"></path>
+<path d="M15.9536 13.3381C15.9536 13.3381 15.9806 13.4461 15.9536 13.4911L15.8726 13.6171C15.5126 14.1571 14.9546 14.5621 14.3156 14.7511L13.7936 14.9131C13.7936 14.9131 13.7036 14.8951 13.7036 14.8501V12.5461H14.4776C14.6936 12.5371 14.9006 12.5101 15.1076 12.4561C15.4046 12.6631 15.6656 12.9241 15.8636 13.2211L15.9446 13.3381H15.9536Z"></path>
+<path d="M4.30758 13.8691H0.446582C0.194582 13.8691 -0.00341797 13.6711 -0.00341797 13.4191C-0.00341797 13.1671 0.194582 12.9691 0.446582 12.9691H4.29858C4.55058 12.9691 4.74858 13.1671 4.74858 13.4191C4.74858 13.6711 4.55058 13.8691 4.29858 13.8691H4.30758Z"></path>
+<path d="M16.3046 7.72207C16.3046 7.72207 16.2956 7.66807 16.2866 7.64107L15.8276 7.50607H15.8096C15.8096 7.50607 15.7376 7.53307 15.7376 7.56907V10.4311C15.7376 10.4311 15.7736 10.5031 15.8096 10.5031C15.8096 10.5031 15.8186 10.4941 15.8276 10.4941L16.2866 10.3591C16.2866 10.3591 16.2866 10.3051 16.2956 10.2781C16.3046 10.1881 16.3136 10.0981 16.3136 10.0081V7.99207C16.3136 7.90207 16.3046 7.81207 16.2956 7.72207H16.3046Z"></path>
+<path d="M14.9726 7.99207V10.0081C14.9726 10.3141 14.7206 10.5751 14.4056 10.5841H9.48258C9.15858 10.5751 8.91558 10.3231 8.91558 10.0081V7.99207C8.91558 7.67707 9.15858 7.42507 9.48258 7.41607H14.4056C14.7206 7.42507 14.9726 7.68607 14.9726 7.99207Z"></path>
+<path d="M17.9876 9.08107L17.9066 9.19807C17.8346 9.30607 17.7626 9.40507 17.6726 9.49507C17.3306 9.89107 16.8626 10.1791 16.3496 10.3411L16.2956 10.3591L15.8366 10.4941L15.8186 10.5031C15.7826 10.5031 15.7466 10.4671 15.7466 10.4311V7.56907C15.7466 7.56907 15.7826 7.50607 15.8186 7.50607H15.8366L16.2956 7.64107L16.3496 7.65907C16.8716 7.82107 17.3306 8.10907 17.6726 8.50507C17.7626 8.59507 17.8346 8.69407 17.9066 8.80207L17.9876 8.92807C17.9876 8.92807 18.0236 9.02707 17.9876 9.08107Z"></path>
+<path d="M7.20558 9.00007C7.20558 9.25207 7.00758 9.45007 6.76458 9.45007H3.21858C2.96658 9.45007 2.76858 9.25207 2.76858 9.00007C2.76858 8.74807 2.96658 8.55007 3.21858 8.55007H6.76458C7.00758 8.55007 7.20558 8.74807 7.20558 9.00007Z"></path>
+</g>
+</svg>
+
+</div>
+Firepower
+                      <div class="role-stats-section-description" data-tooltip-id="uniqueTooltipId-1806608105"><i class="fa fa-question-circle"></i>
+                        <div class="hidden" id="uniqueTooltipId-1806608105">
+                          <div class="tooltip-box tooltip-attributes"><b>Firepower: </b> A player's raw output, with a score based on kills, damage, and multi-kills. This is one for the star players — or those on a particularly high hot streak. Survival doesn't matter at all here; this is just the fraggers.</div>
+                        </div>
+                      </div>
+                      <div class="row-stats-section-score">53<span class="row-stats-section-score-100">/100</span></div>
+                    </div>
+                    <div class="role-stats-section-arrow"><i class="fa fa-caret-down"></i></div>
+                    <div class="role-stats-progress-wrapper">
+                      <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;53%&quot;}" style="width: 53%;"></div>
+                    </div>
+                  </div>
+                  <div class="role-stats-section-title-wrapper stats-side-ct hidden">
+                    <div class="role-stats-section-title">
+                      <div class="role-stats-section-icon-container"><svg class="role-stats-section-icon" width="18" height="18" viewBox="0 0 18 18" fill="currentColor" xmlns="http://www.w3.org/2000/svg" data-darkreader-inline-fill="" style="--darkreader-inline-fill: currentColor;">
+<g clip-path="url(#clip0_117_351)">
+<path d="M12.9386 3.58207V5.45407H9.49158C8.71758 5.45407 8.01558 5.71507 7.45758 6.17407H7.44858C7.12458 6.17407 6.87258 5.91307 6.88158 5.58907V3.58207C6.88158 3.25807 7.13358 2.99707 7.45758 2.99707H12.3536C12.6776 2.99707 12.9386 3.25807 12.9386 3.58207Z"></path>
+<path d="M15.9536 4.50907C15.9536 4.50907 15.9806 4.61707 15.9536 4.66207L15.8726 4.78807C15.6746 5.08507 15.4136 5.33707 15.1166 5.54407C14.9096 5.49007 14.6936 5.46307 14.4776 5.45407H13.7036V3.15907C13.7036 3.15907 13.7486 3.07807 13.7936 3.08707L14.3156 3.24907C14.9546 3.43807 15.5126 3.84307 15.8726 4.39207L15.9536 4.50907Z"></path>
+<path d="M4.30758 5.03107H0.446582C0.203582 5.03107 0.00558203 4.83307 0.00558203 4.58107C0.00558203 4.32907 0.203582 4.13107 0.455582 4.13107H4.30758C4.55958 4.13107 4.75758 4.32907 4.75758 4.58107C4.75758 4.83307 4.55958 5.03107 4.30758 5.03107Z"></path>
+<path d="M12.9386 12.5461V14.4181C12.9386 14.7421 12.6776 15.0031 12.3536 15.0031H7.45758C7.13358 15.0031 6.87258 14.7421 6.88158 14.4181V12.4111C6.88158 12.0871 7.12458 11.8351 7.44858 11.8261H7.45758C8.01558 12.2851 8.71758 12.5461 9.49158 12.5461H12.9386Z"></path>
+<path d="M15.9536 13.3381C15.9536 13.3381 15.9806 13.4461 15.9536 13.4911L15.8726 13.6171C15.5126 14.1571 14.9546 14.5621 14.3156 14.7511L13.7936 14.9131C13.7936 14.9131 13.7036 14.8951 13.7036 14.8501V12.5461H14.4776C14.6936 12.5371 14.9006 12.5101 15.1076 12.4561C15.4046 12.6631 15.6656 12.9241 15.8636 13.2211L15.9446 13.3381H15.9536Z"></path>
+<path d="M4.30758 13.8691H0.446582C0.194582 13.8691 -0.00341797 13.6711 -0.00341797 13.4191C-0.00341797 13.1671 0.194582 12.9691 0.446582 12.9691H4.29858C4.55058 12.9691 4.74858 13.1671 4.74858 13.4191C4.74858 13.6711 4.55058 13.8691 4.29858 13.8691H4.30758Z"></path>
+<path d="M16.3046 7.72207C16.3046 7.72207 16.2956 7.66807 16.2866 7.64107L15.8276 7.50607H15.8096C15.8096 7.50607 15.7376 7.53307 15.7376 7.56907V10.4311C15.7376 10.4311 15.7736 10.5031 15.8096 10.5031C15.8096 10.5031 15.8186 10.4941 15.8276 10.4941L16.2866 10.3591C16.2866 10.3591 16.2866 10.3051 16.2956 10.2781C16.3046 10.1881 16.3136 10.0981 16.3136 10.0081V7.99207C16.3136 7.90207 16.3046 7.81207 16.2956 7.72207H16.3046Z"></path>
+<path d="M14.9726 7.99207V10.0081C14.9726 10.3141 14.7206 10.5751 14.4056 10.5841H9.48258C9.15858 10.5751 8.91558 10.3231 8.91558 10.0081V7.99207C8.91558 7.67707 9.15858 7.42507 9.48258 7.41607H14.4056C14.7206 7.42507 14.9726 7.68607 14.9726 7.99207Z"></path>
+<path d="M17.9876 9.08107L17.9066 9.19807C17.8346 9.30607 17.7626 9.40507 17.6726 9.49507C17.3306 9.89107 16.8626 10.1791 16.3496 10.3411L16.2956 10.3591L15.8366 10.4941L15.8186 10.5031C15.7826 10.5031 15.7466 10.4671 15.7466 10.4311V7.56907C15.7466 7.56907 15.7826 7.50607 15.8186 7.50607H15.8366L16.2956 7.64107L16.3496 7.65907C16.8716 7.82107 17.3306 8.10907 17.6726 8.50507C17.7626 8.59507 17.8346 8.69407 17.9066 8.80207L17.9876 8.92807C17.9876 8.92807 18.0236 9.02707 17.9876 9.08107Z"></path>
+<path d="M7.20558 9.00007C7.20558 9.25207 7.00758 9.45007 6.76458 9.45007H3.21858C2.96658 9.45007 2.76858 9.25207 2.76858 9.00007C2.76858 8.74807 2.96658 8.55007 3.21858 8.55007H6.76458C7.00758 8.55007 7.20558 8.74807 7.20558 9.00007Z"></path>
+</g>
+</svg>
+
+</div>
+Firepower
+                      <div class="role-stats-section-description" data-tooltip-id="uniqueTooltipId-968298145"><i class="fa fa-question-circle"></i>
+                        <div class="hidden" id="uniqueTooltipId-968298145">
+                          <div class="tooltip-box tooltip-attributes"><b>Firepower: </b> A player's raw output, with a score based on kills, damage, and multi-kills. This is one for the star players — or those on a particularly high hot streak. Survival doesn't matter at all here; this is just the fraggers.</div>
+                        </div>
+                      </div>
+                      <div class="row-stats-section-score">51<span class="row-stats-section-score-100">/100</span></div>
+                    </div>
+                    <div class="role-stats-section-arrow"><i class="fa fa-caret-down"></i></div>
+                    <div class="role-stats-progress-wrapper">
+                      <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;51%&quot;}" style="width: 51%;"></div>
+                    </div>
+                  </div>
+                  <div class="role-stats-section-title-wrapper stats-side-t hidden">
+                    <div class="role-stats-section-title">
+                      <div class="role-stats-section-icon-container"><svg class="role-stats-section-icon" width="18" height="18" viewBox="0 0 18 18" fill="currentColor" xmlns="http://www.w3.org/2000/svg" data-darkreader-inline-fill="" style="--darkreader-inline-fill: currentColor;">
+<g clip-path="url(#clip0_117_351)">
+<path d="M12.9386 3.58207V5.45407H9.49158C8.71758 5.45407 8.01558 5.71507 7.45758 6.17407H7.44858C7.12458 6.17407 6.87258 5.91307 6.88158 5.58907V3.58207C6.88158 3.25807 7.13358 2.99707 7.45758 2.99707H12.3536C12.6776 2.99707 12.9386 3.25807 12.9386 3.58207Z"></path>
+<path d="M15.9536 4.50907C15.9536 4.50907 15.9806 4.61707 15.9536 4.66207L15.8726 4.78807C15.6746 5.08507 15.4136 5.33707 15.1166 5.54407C14.9096 5.49007 14.6936 5.46307 14.4776 5.45407H13.7036V3.15907C13.7036 3.15907 13.7486 3.07807 13.7936 3.08707L14.3156 3.24907C14.9546 3.43807 15.5126 3.84307 15.8726 4.39207L15.9536 4.50907Z"></path>
+<path d="M4.30758 5.03107H0.446582C0.203582 5.03107 0.00558203 4.83307 0.00558203 4.58107C0.00558203 4.32907 0.203582 4.13107 0.455582 4.13107H4.30758C4.55958 4.13107 4.75758 4.32907 4.75758 4.58107C4.75758 4.83307 4.55958 5.03107 4.30758 5.03107Z"></path>
+<path d="M12.9386 12.5461V14.4181C12.9386 14.7421 12.6776 15.0031 12.3536 15.0031H7.45758C7.13358 15.0031 6.87258 14.7421 6.88158 14.4181V12.4111C6.88158 12.0871 7.12458 11.8351 7.44858 11.8261H7.45758C8.01558 12.2851 8.71758 12.5461 9.49158 12.5461H12.9386Z"></path>
+<path d="M15.9536 13.3381C15.9536 13.3381 15.9806 13.4461 15.9536 13.4911L15.8726 13.6171C15.5126 14.1571 14.9546 14.5621 14.3156 14.7511L13.7936 14.9131C13.7936 14.9131 13.7036 14.8951 13.7036 14.8501V12.5461H14.4776C14.6936 12.5371 14.9006 12.5101 15.1076 12.4561C15.4046 12.6631 15.6656 12.9241 15.8636 13.2211L15.9446 13.3381H15.9536Z"></path>
+<path d="M4.30758 13.8691H0.446582C0.194582 13.8691 -0.00341797 13.6711 -0.00341797 13.4191C-0.00341797 13.1671 0.194582 12.9691 0.446582 12.9691H4.29858C4.55058 12.9691 4.74858 13.1671 4.74858 13.4191C4.74858 13.6711 4.55058 13.8691 4.29858 13.8691H4.30758Z"></path>
+<path d="M16.3046 7.72207C16.3046 7.72207 16.2956 7.66807 16.2866 7.64107L15.8276 7.50607H15.8096C15.8096 7.50607 15.7376 7.53307 15.7376 7.56907V10.4311C15.7376 10.4311 15.7736 10.5031 15.8096 10.5031C15.8096 10.5031 15.8186 10.4941 15.8276 10.4941L16.2866 10.3591C16.2866 10.3591 16.2866 10.3051 16.2956 10.2781C16.3046 10.1881 16.3136 10.0981 16.3136 10.0081V7.99207C16.3136 7.90207 16.3046 7.81207 16.2956 7.72207H16.3046Z"></path>
+<path d="M14.9726 7.99207V10.0081C14.9726 10.3141 14.7206 10.5751 14.4056 10.5841H9.48258C9.15858 10.5751 8.91558 10.3231 8.91558 10.0081V7.99207C8.91558 7.67707 9.15858 7.42507 9.48258 7.41607H14.4056C14.7206 7.42507 14.9726 7.68607 14.9726 7.99207Z"></path>
+<path d="M17.9876 9.08107L17.9066 9.19807C17.8346 9.30607 17.7626 9.40507 17.6726 9.49507C17.3306 9.89107 16.8626 10.1791 16.3496 10.3411L16.2956 10.3591L15.8366 10.4941L15.8186 10.5031C15.7826 10.5031 15.7466 10.4671 15.7466 10.4311V7.56907C15.7466 7.56907 15.7826 7.50607 15.8186 7.50607H15.8366L16.2956 7.64107L16.3496 7.65907C16.8716 7.82107 17.3306 8.10907 17.6726 8.50507C17.7626 8.59507 17.8346 8.69407 17.9066 8.80207L17.9876 8.92807C17.9876 8.92807 18.0236 9.02707 17.9876 9.08107Z"></path>
+<path d="M7.20558 9.00007C7.20558 9.25207 7.00758 9.45007 6.76458 9.45007H3.21858C2.96658 9.45007 2.76858 9.25207 2.76858 9.00007C2.76858 8.74807 2.96658 8.55007 3.21858 8.55007H6.76458C7.00758 8.55007 7.20558 8.74807 7.20558 9.00007Z"></path>
+</g>
+</svg>
+
+</div>
+Firepower
+                      <div class="role-stats-section-description" data-tooltip-id="uniqueTooltipId-534772264"><i class="fa fa-question-circle"></i>
+                        <div class="hidden" id="uniqueTooltipId-534772264">
+                          <div class="tooltip-box tooltip-attributes"><b>Firepower: </b> A player's raw output, with a score based on kills, damage, and multi-kills. This is one for the star players — or those on a particularly high hot streak. Survival doesn't matter at all here; this is just the fraggers.</div>
+                        </div>
+                      </div>
+                      <div class="row-stats-section-score">50<span class="row-stats-section-score-100">/100</span></div>
+                    </div>
+                    <div class="role-stats-section-arrow"><i class="fa fa-caret-down"></i></div>
+                    <div class="role-stats-progress-wrapper">
+                      <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;50%&quot;}" style="width: 50%;"></div>
+                    </div>
+                  </div>
+                  <div class="role-stats-margin role-stats-section-columns">
+                    <div class="role-stats-row   stats-side-combined" data-original-value="0.65" data-per-24-round-title="Kills per 24 rounds" data-per-24-round-value="15.8" data-per-round-title="Kills per round">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Kills per round</div>
+                        <div class="role-stats-data">0.65</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;46.13956763921547%&quot;}" style="width: 46.1396%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-ct" data-original-value="0.68" data-per-24-round-title="Kills per 24 rounds" data-per-24-round-value="16.5" data-per-round-title="Kills per round">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Kills per round</div>
+                        <div class="role-stats-data">0.68</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;45.728133025526354%&quot;}" style="width: 45.7281%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-t" data-original-value="0.63" data-per-24-round-title="Kills per 24 rounds" data-per-24-round-value="15.1" data-per-round-title="Kills per round">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Kills per round</div>
+                        <div class="role-stats-data">0.63</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;47.672192334733865%&quot;}" style="width: 47.6722%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row   stats-side-combined" data-original-value="45.5%" data-per-24-round-title="Rounds with a kill" data-per-round-title="Rounds with a kill" title="The percentage of rounds in which the player delivered at least one kill.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Rounds with a kill</div>
+                        <div class="role-stats-data">45.5%</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;52.46205174219295%&quot;}" style="width: 52.4621%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-ct" data-original-value="46.9%" data-per-24-round-title="Rounds with a kill" data-per-round-title="Rounds with a kill" title="The percentage of rounds in which the player delivered at least one kill.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Rounds with a kill</div>
+                        <div class="role-stats-data">46.9%</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;44.66134338649213%&quot;}" style="width: 44.6613%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-t" data-original-value="44.2%" data-per-24-round-title="Rounds with a kill" data-per-round-title="Rounds with a kill" title="The percentage of rounds in which the player delivered at least one kill.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Rounds with a kill</div>
+                        <div class="role-stats-data">44.2%</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;51.45848722520092%&quot;}" style="width: 51.4585%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row   stats-side-combined" data-original-value="0.90" data-per-24-round-title="Kills per 24 round wins" data-per-24-round-value="21.7" data-per-round-title="Kills per round win" title="Kills in round wins divided by total round wins.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Kills per round win</div>
+                        <div class="role-stats-data">0.90</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;43.92440955061926%&quot;}" style="width: 43.9244%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-ct" data-original-value="0.94" data-per-24-round-title="Kills per 24 round wins" data-per-24-round-value="22.6" data-per-round-title="Kills per round win" title="Kills in round wins divided by total round wins.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Kills per round win</div>
+                        <div class="role-stats-data">0.94</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;43.11975653475681%&quot;}" style="width: 43.1198%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-t" data-original-value="0.86" data-per-24-round-title="Kills per 24 round wins" data-per-24-round-value="20.7" data-per-round-title="Kills per round win" title="Kills in round wins divided by total round wins.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Kills per round win</div>
+                        <div class="role-stats-data">0.86</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;47.05121074108676%&quot;}" style="width: 47.0512%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row   stats-side-combined" title="HLTV's in-house formula for performance, taking into account Kills, Damage, Survival, Impact, and round-to-round consistency.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Rating 2.0</div>
+                        <div class="role-stats-data">1.04</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;47.02149765433603%&quot;}" style="width: 47.0215%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-ct" title="HLTV's in-house formula for performance, taking into account Kills, Damage, Survival, Impact, and round-to-round consistency.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Rating 2.0</div>
+                        <div class="role-stats-data">1.03</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;47.39716737814903%&quot;}" style="width: 47.3972%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-t" title="HLTV's in-house formula for performance, taking into account Kills, Damage, Survival, Impact, and round-to-round consistency.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Rating 2.0</div>
+                        <div class="role-stats-data">1.03</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;46.65281550966856%&quot;}" style="width: 46.6528%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row   stats-side-combined" data-original-value="74.6" data-per-24-round-title="Damage per 24 rounds" data-per-24-round-value="1790" data-per-round-title="Damage per round">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Damage per round</div>
+                        <div class="role-stats-data">74.6</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;58.09024980556829%&quot;}" style="width: 58.0902%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-ct" data-original-value="78.2" data-per-24-round-title="Damage per 24 rounds" data-per-24-round-value="1876" data-per-round-title="Damage per round">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Damage per round</div>
+                        <div class="role-stats-data">78.2</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;59.06803736590784%&quot;}" style="width: 59.068%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-t" data-original-value="71.1" data-per-24-round-title="Damage per 24 rounds" data-per-24-round-value="1706" data-per-round-title="Damage per round">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Damage per round</div>
+                        <div class="role-stats-data">71.1</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;55.9367316752299%&quot;}" style="width: 55.9367%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row   stats-side-combined" data-original-value="15.8%" data-per-24-round-title="Rounds with a multi-kill" data-per-round-title="Rounds with a multi-kill" title="The percentage of rounds in which the player delivered at least two kills.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Rounds with a multi-kill</div>
+                        <div class="role-stats-data">15.8%</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;54.34500627823793%&quot;}" style="width: 54.345%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-ct" data-original-value="16.9%" data-per-24-round-title="Rounds with a multi-kill" data-per-round-title="Rounds with a multi-kill" title="The percentage of rounds in which the player delivered at least two kills.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Rounds with a multi-kill</div>
+                        <div class="role-stats-data">16.9%</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;48.596776050164166%&quot;}" style="width: 48.5968%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-t" data-original-value="14.7%" data-per-24-round-title="Rounds with a multi-kill" data-per-round-title="Rounds with a multi-kill" title="The percentage of rounds in which the player delivered at least two kills.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Rounds with a multi-kill</div>
+                        <div class="role-stats-data">14.7%</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;46.724298414612946%&quot;}" style="width: 46.7243%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row   stats-side-combined" data-original-value="95.5" data-per-24-round-title="Damage per 24 round wins" data-per-24-round-value="2293" data-per-round-title="Damage per round win" title="Damage in round wins divided by total round wins.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Damage per round win</div>
+                        <div class="role-stats-data">95.5</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;59.28098039740427%&quot;}" style="width: 59.281%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-ct" data-original-value="99.2" data-per-24-round-title="Damage per 24 round wins" data-per-24-round-value="2382" data-per-round-title="Damage per round win" title="Damage in round wins divided by total round wins.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Damage per round win</div>
+                        <div class="role-stats-data">99.2</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;57.438350153503784%&quot;}" style="width: 57.4384%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-t" data-original-value="91.8" data-per-24-round-title="Damage per 24 round wins" data-per-24-round-value="2205" data-per-round-title="Damage per round win" title="Damage in round wins divided by total round wins.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Damage per round win</div>
+                        <div class="role-stats-data">91.8</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;59.272896973421126%&quot;}" style="width: 59.2729%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row   stats-side-combined" title="Rating 2.0 in the first round of each half.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Pistol round rating</div>
+                        <div class="role-stats-data">1.00</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;42.711120694913916%&quot;}" style="width: 42.7111%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-ct" title="Rating 2.0 in the first round of each half.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Pistol round rating</div>
+                        <div class="role-stats-data">0.97</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;35.74666860555871%&quot;}" style="width: 35.7467%;"></div>
+                      </div>
+                    </div>
+                    <div class="role-stats-row  hidden stats-side-t" title="Rating 2.0 in the first round of each half.">
+                      <div class="role-stats-top">
+                        <div class="role-stats-title">Pistol round rating</div>
+                        <div class="role-stats-data">1.03</div>
+                      </div>
+                      <div class="role-stats-progress-wrapper">
+                        <div class="role-stats-progress average" data-inline-style="{&quot;width&quot;:&quot;55.81714417269361%&quot;}" style="width: 55.8171%;"></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>

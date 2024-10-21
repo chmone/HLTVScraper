@@ -1,0 +1,602 @@
+<tbody>
+                  <tr class="group-2 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183553/mibr-vs-g2?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725816600000">8/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Brazil" src="/img/static/flags/30x20/BR.gif" class="flag" title="Brazil"><a href="/stats/teams/9215/mibr?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-327738100">MIBR</a><span class="score"> (8)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/5995/g2?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1678777067">G2</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">inf</div>
+                      <div class="dynamic-map-name-full">Inferno</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-853025787">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183549/mibr-vs-g2?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725816600000">8/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Brazil" src="/img/static/flags/30x20/BR.gif" class="flag" title="Brazil"><a href="/stats/teams/9215/mibr?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1209366434">MIBR</a><span class="score"> (8)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/5995/g2?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-842631308">G2</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anb</div>
+                      <div class="dynamic-map-name-full">Anubis</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-298336922">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183537/sangal-vs-heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725805800000">8/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/10333/sangal?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-910644459">Sangal</a><span class="score"> (9)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/7175/heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-2133148198">HEROIC</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">nuke</div>
+                      <div class="dynamic-map-name-full">Nuke</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--1080188851">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183534/heroic-vs-sangal?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725805800000">8/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/7175/heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1588253555">HEROIC</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/10333/sangal?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1289250743">Sangal</a><span class="score"> (11)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">mrg</div>
+                      <div class="dynamic-map-name-full">Mirage</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-655672214">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183525/3dmax-vs-the-mongolz?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725795000000">8/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="France" src="/img/static/flags/30x20/FR.gif" class="flag" title="France"><a href="/stats/teams/4914/3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1789103641">3DMAX</a><span class="score"> (7)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Mongolia" src="/img/static/flags/30x20/MN.gif" class="flag" title="Mongolia"><a href="/stats/teams/6248/the-mongolz?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1107457300">The MongolZ</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anc</div>
+                      <div class="dynamic-map-name-full">Ancient</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--932684930">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183522/the-mongolz-vs-3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725795000000">8/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Mongolia" src="/img/static/flags/30x20/MN.gif" class="flag" title="Mongolia"><a href="/stats/teams/6248/the-mongolz?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1462182412">The MongolZ</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="France" src="/img/static/flags/30x20/FR.gif" class="flag" title="France"><a href="/stats/teams/4914/3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1175463237">3DMAX</a><span class="score"> (8)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anb</div>
+                      <div class="dynamic-map-name-full">Anubis</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--1727869399">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183490/eternal-fire-vs-natus-vincere?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725732000000">7/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Turkey" src="/img/static/flags/30x20/TR.gif" class="flag" title="Turkey"><a href="/stats/teams/11251/eternal-fire?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--995366048">Eternal Fire</a><span class="score"> (5)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/4608/natus-vincere?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--132836627">Natus Vincere</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">mrg</div>
+                      <div class="dynamic-map-name-full">Mirage</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--760486587">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183476/eternal-fire-vs-natus-vincere?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725732000000">7/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Turkey" src="/img/static/flags/30x20/TR.gif" class="flag" title="Turkey"><a href="/stats/teams/11251/eternal-fire?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--978424979">Eternal Fire</a><span class="score"> (20)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/4608/natus-vincere?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1514268463">Natus Vincere</a><span class="score"> (22)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anb</div>
+                      <div class="dynamic-map-name-full">Anubis</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-1171333484">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183459/heroic-vs-ninjas-in-pyjamas?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725719400000">7/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/7175/heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--2099330290">HEROIC</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Sweden" src="/img/static/flags/30x20/SE.gif" class="flag" title="Sweden"><a href="/stats/teams/4411/ninjas-in-pyjamas?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--709897011">Ninjas in Pyjamas</a><span class="score"> (6)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anb</div>
+                      <div class="dynamic-map-name-full">Anubis</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-2050849433">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183454/ninjas-in-pyjamas-vs-heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725719400000">7/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Sweden" src="/img/static/flags/30x20/SE.gif" class="flag" title="Sweden"><a href="/stats/teams/4411/ninjas-in-pyjamas?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-154411846">Ninjas in Pyjamas</a><span class="score"> (7)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/7175/heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-165203408">HEROIC</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">nuke</div>
+                      <div class="dynamic-map-name-full">Nuke</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--263567750">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183443/heroic-vs-ninjas-in-pyjamas?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725719400000">7/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/7175/heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1845160448">HEROIC</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Sweden" src="/img/static/flags/30x20/SE.gif" class="flag" title="Sweden"><a href="/stats/teams/4411/ninjas-in-pyjamas?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1811566223">Ninjas in Pyjamas</a><span class="score"> (16)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anc</div>
+                      <div class="dynamic-map-name-full">Ancient</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-1890069924">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183449/wildcard-vs-3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725719400000">7/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Other" src="/img/static/flags/30x20/WORLD.gif" class="flag" title="Other"><a href="/stats/teams/12257/wildcard?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-890444151">Wildcard</a><span class="score"> (4)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="France" src="/img/static/flags/30x20/FR.gif" class="flag" title="France"><a href="/stats/teams/4914/3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1764125740">3DMAX</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">inf</div>
+                      <div class="dynamic-map-name-full">Inferno</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--1531773703">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183440/3dmax-vs-wildcard?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725719400000">7/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="France" src="/img/static/flags/30x20/FR.gif" class="flag" title="France"><a href="/stats/teams/4914/3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1334727034">3DMAX</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Other" src="/img/static/flags/30x20/WORLD.gif" class="flag" title="Other"><a href="/stats/teams/12257/wildcard?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--197650745">Wildcard</a><span class="score"> (9)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anc</div>
+                      <div class="dynamic-map-name-full">Ancient</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--2013175451">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183429/sangal-vs-flyquest?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725708600000">7/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/10333/sangal?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1035006792">Sangal</a><span class="score"> (16)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Australia" src="/img/static/flags/30x20/AU.gif" class="flag" title="Australia"><a href="/stats/teams/12774/flyquest?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--357795822">FlyQuest</a><span class="score"> (12)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">vtg</div>
+                      <div class="dynamic-map-name-full">Vertigo</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-734021352">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183420/sangal-vs-flyquest?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725708600000">7/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/10333/sangal?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1668216909">Sangal</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Australia" src="/img/static/flags/30x20/AU.gif" class="flag" title="Australia"><a href="/stats/teams/12774/flyquest?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--901954612">FlyQuest</a><span class="score"> (11)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anb</div>
+                      <div class="dynamic-map-name-full">Anubis</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-534626756">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183428/9z-vs-the-mongolz?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725708600000">7/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="South America" src="/img/static/flags/30x20/SAM.gif" class="flag" title="South America"><a href="/stats/teams/9996/9z?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1413748116">9z</a><span class="score"> (10)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Mongolia" src="/img/static/flags/30x20/MN.gif" class="flag" title="Mongolia"><a href="/stats/teams/6248/the-mongolz?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--582378770">The MongolZ</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anc</div>
+                      <div class="dynamic-map-name-full">Ancient</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-300428173">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183419/the-mongolz-vs-9z?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725708600000">7/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Mongolia" src="/img/static/flags/30x20/MN.gif" class="flag" title="Mongolia"><a href="/stats/teams/6248/the-mongolz?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1387646857">The MongolZ</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="South America" src="/img/static/flags/30x20/SAM.gif" class="flag" title="South America"><a href="/stats/teams/9996/9z?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-918894302">9z</a><span class="score"> (10)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">nuke</div>
+                      <div class="dynamic-map-name-full">Nuke</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-1000825558">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183391/wildcard-vs-koi?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725645900000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Other" src="/img/static/flags/30x20/WORLD.gif" class="flag" title="Other"><a href="/stats/teams/12257/wildcard?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--240029911">Wildcard</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/12591/koi?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--16554422">KOI</a><span class="score"> (7)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">nuke</div>
+                      <div class="dynamic-map-name-full">Nuke</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-63625742">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183386/koi-vs-wildcard?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725645900000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/12591/koi?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1430082805">KOI</a><span class="score"> (8)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Other" src="/img/static/flags/30x20/WORLD.gif" class="flag" title="Other"><a href="/stats/teams/12257/wildcard?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1904647584">Wildcard</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anc</div>
+                      <div class="dynamic-map-name-full">Ancient</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-1687339235">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183392/spirit-vs-3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725643800000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Russia" src="/img/static/flags/30x20/RU.gif" class="flag" title="Russia"><a href="/stats/teams/7020/spirit?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1966707637">Spirit</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="France" src="/img/static/flags/30x20/FR.gif" class="flag" title="France"><a href="/stats/teams/4914/3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-2107620121">3DMAX</a><span class="score"> (2)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">nuke</div>
+                      <div class="dynamic-map-name-full">Nuke</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-228441404">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183387/3dmax-vs-spirit?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725643800000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="France" src="/img/static/flags/30x20/FR.gif" class="flag" title="France"><a href="/stats/teams/4914/3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-537368756">3DMAX</a><span class="score"> (6)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Russia" src="/img/static/flags/30x20/RU.gif" class="flag" title="Russia"><a href="/stats/teams/7020/spirit?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--601205843">Spirit</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anc</div>
+                      <div class="dynamic-map-name-full">Ancient</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-172266309">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183379/spirit-vs-3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725643800000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Russia" src="/img/static/flags/30x20/RU.gif" class="flag" title="Russia"><a href="/stats/teams/7020/spirit?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1719863499">Spirit</a><span class="score"> (6)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="France" src="/img/static/flags/30x20/FR.gif" class="flag" title="France"><a href="/stats/teams/4914/3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--337604432">3DMAX</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anb</div>
+                      <div class="dynamic-map-name-full">Anubis</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--37598333">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183369/sangal-vs-faze?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725633900000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/10333/sangal?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--341549998">Sangal</a><span class="score"> (5)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/6667/faze?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1900662879">FaZe</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">d2</div>
+                      <div class="dynamic-map-name-full">Dust2</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-1705126035">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183363/faze-vs-sangal?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725633900000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/6667/faze?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1798803116">FaZe</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/10333/sangal?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--2005970554">Sangal</a><span class="score"> (11)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anb</div>
+                      <div class="dynamic-map-name-full">Anubis</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-1667872244">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183374/flyquest-vs-lynn-vision?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725633000000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Australia" src="/img/static/flags/30x20/AU.gif" class="flag" title="Australia"><a href="/stats/teams/12774/flyquest?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1700080205">FlyQuest</a><span class="score"> (16)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="China" src="/img/static/flags/30x20/CN.gif" class="flag" title="China"><a href="/stats/teams/8840/lynn-vision?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-2116180367">Lynn Vision</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anc</div>
+                      <div class="dynamic-map-name-full">Ancient</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--640892653">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183367/lynn-vision-vs-flyquest?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725633000000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="China" src="/img/static/flags/30x20/CN.gif" class="flag" title="China"><a href="/stats/teams/8840/lynn-vision?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--927444928">Lynn Vision</a><span class="score"> (10)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Australia" src="/img/static/flags/30x20/AU.gif" class="flag" title="Australia"><a href="/stats/teams/12774/flyquest?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1297151315">FlyQuest</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">vtg</div>
+                      <div class="dynamic-map-name-full">Vertigo</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-76032525">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183362/lynn-vision-vs-flyquest?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725633000000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="China" src="/img/static/flags/30x20/CN.gif" class="flag" title="China"><a href="/stats/teams/8840/lynn-vision?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-2055255669">Lynn Vision</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Australia" src="/img/static/flags/30x20/AU.gif" class="flag" title="Australia"><a href="/stats/teams/12774/flyquest?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--934794267">FlyQuest</a><span class="score"> (7)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anb</div>
+                      <div class="dynamic-map-name-full">Anubis</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--1840769873">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183355/the-mongolz-vs-spirit?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725622200000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Mongolia" src="/img/static/flags/30x20/MN.gif" class="flag" title="Mongolia"><a href="/stats/teams/6248/the-mongolz?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-2057595905">The MongolZ</a><span class="score"> (11)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Russia" src="/img/static/flags/30x20/RU.gif" class="flag" title="Russia"><a href="/stats/teams/7020/spirit?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1862375434">Spirit</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">nuke</div>
+                      <div class="dynamic-map-name-full">Nuke</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--231249665">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183349/spirit-vs-the-mongolz?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725622200000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Russia" src="/img/static/flags/30x20/RU.gif" class="flag" title="Russia"><a href="/stats/teams/7020/spirit?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1157627132">Spirit</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Mongolia" src="/img/static/flags/30x20/MN.gif" class="flag" title="Mongolia"><a href="/stats/teams/6248/the-mongolz?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1030205075">The MongolZ</a><span class="score"> (4)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anb</div>
+                      <div class="dynamic-map-name-full">Anubis</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-2010002327">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183343/spirit-vs-the-mongolz?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725622200000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Russia" src="/img/static/flags/30x20/RU.gif" class="flag" title="Russia"><a href="/stats/teams/7020/spirit?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1371455764">Spirit</a><span class="score"> (9)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Mongolia" src="/img/static/flags/30x20/MN.gif" class="flag" title="Mongolia"><a href="/stats/teams/6248/the-mongolz?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1375713249">The MongolZ</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anc</div>
+                      <div class="dynamic-map-name-full">Ancient</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-1494661754">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183350/3dmax-vs-9z?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725622200000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="France" src="/img/static/flags/30x20/FR.gif" class="flag" title="France"><a href="/stats/teams/4914/3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1373275770">3DMAX</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="South America" src="/img/static/flags/30x20/SAM.gif" class="flag" title="South America"><a href="/stats/teams/9996/9z?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--150830788">9z</a><span class="score"> (5)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">nuke</div>
+                      <div class="dynamic-map-name-full">Nuke</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-1658826308">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183345/9z-vs-3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725622200000">6/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="South America" src="/img/static/flags/30x20/SAM.gif" class="flag" title="South America"><a href="/stats/teams/9996/9z?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1558333299">9z</a><span class="score"> (14)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="France" src="/img/static/flags/30x20/FR.gif" class="flag" title="France"><a href="/stats/teams/4914/3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-544167163">3DMAX</a><span class="score"> (16)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">inf</div>
+                      <div class="dynamic-map-name-full">Inferno</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--802179844">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183317/ninjas-in-pyjamas-vs-faze?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725559500000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Sweden" src="/img/static/flags/30x20/SE.gif" class="flag" title="Sweden"><a href="/stats/teams/4411/ninjas-in-pyjamas?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-549826552">Ninjas in Pyjamas</a><span class="score"> (1)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/6667/faze?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-346747148">FaZe</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">d2</div>
+                      <div class="dynamic-map-name-full">Dust2</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-1232925698">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183313/faze-vs-ninjas-in-pyjamas?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725559500000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/6667/faze?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1647092135">FaZe</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Sweden" src="/img/static/flags/30x20/SE.gif" class="flag" title="Sweden"><a href="/stats/teams/4411/ninjas-in-pyjamas?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1176856073">Ninjas in Pyjamas</a><span class="score"> (9)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">mrg</div>
+                      <div class="dynamic-map-name-full">Mirage</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--1488075366">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183303/faze-vs-ninjas-in-pyjamas?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725559500000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/6667/faze?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1665880686">FaZe</a><span class="score"> (11)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Sweden" src="/img/static/flags/30x20/SE.gif" class="flag" title="Sweden"><a href="/stats/teams/4411/ninjas-in-pyjamas?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1583764075">Ninjas in Pyjamas</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anc</div>
+                      <div class="dynamic-map-name-full">Ancient</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-1605164048">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183315/sangal-vs-heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725557400000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/10333/sangal?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1520469812">Sangal</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/7175/heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1465008964">HEROIC</a><span class="score"> (11)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">nuke</div>
+                      <div class="dynamic-map-name-full">Nuke</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-624727511">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183306/sangal-vs-heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725557400000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/10333/sangal?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1974853704">Sangal</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/7175/heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--2020225013">HEROIC</a><span class="score"> (9)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anc</div>
+                      <div class="dynamic-map-name-full">Ancient</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--1305904701">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183293/heroic-vs-sangal?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725557400000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/7175/heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1046137579">HEROIC</a><span class="score"> (16)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/10333/sangal?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1927917199">Sangal</a><span class="score"> (12)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">mrg</div>
+                      <div class="dynamic-map-name-full">Mirage</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--1650533583">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183284/3dmax-vs-g2?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725548100000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="France" src="/img/static/flags/30x20/FR.gif" class="flag" title="France"><a href="/stats/teams/4914/3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-276598795">3DMAX</a><span class="score"> (7)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/5995/g2?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-841173532">G2</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">nuke</div>
+                      <div class="dynamic-map-name-full">Nuke</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-526875039">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183275/3dmax-vs-g2?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725548100000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="France" src="/img/static/flags/30x20/FR.gif" class="flag" title="France"><a href="/stats/teams/4914/3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--2117075019">3DMAX</a><span class="score"> (6)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/5995/g2?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1520342914">G2</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anc</div>
+                      <div class="dynamic-map-name-full">Ancient</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-1656094475">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183267/3dmax-vs-g2?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725548100000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="France" src="/img/static/flags/30x20/FR.gif" class="flag" title="France"><a href="/stats/teams/4914/3dmax?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1783783328">3DMAX</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/5995/g2?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1513631428">G2</a><span class="score"> (10)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anb</div>
+                      <div class="dynamic-map-name-full">Anubis</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--1936607210">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183271/wildcard-vs-9z?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725546600000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Other" src="/img/static/flags/30x20/WORLD.gif" class="flag" title="Other"><a href="/stats/teams/12257/wildcard?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--389552250">Wildcard</a><span class="score"> (10)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="South America" src="/img/static/flags/30x20/SAM.gif" class="flag" title="South America"><a href="/stats/teams/9996/9z?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1061899183">9z</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">nuke</div>
+                      <div class="dynamic-map-name-full">Nuke</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-1158603608">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183262/9z-vs-wildcard?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725546600000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="South America" src="/img/static/flags/30x20/SAM.gif" class="flag" title="South America"><a href="/stats/teams/9996/9z?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--300303463">9z</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Other" src="/img/static/flags/30x20/WORLD.gif" class="flag" title="Other"><a href="/stats/teams/12257/wildcard?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-354582283">Wildcard</a><span class="score"> (6)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anc</div>
+                      <div class="dynamic-map-name-full">Ancient</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--401621010">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183256/spirit-vs-mibr?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725535800000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Russia" src="/img/static/flags/30x20/RU.gif" class="flag" title="Russia"><a href="/stats/teams/7020/spirit?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-368600115">Spirit</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Brazil" src="/img/static/flags/30x20/BR.gif" class="flag" title="Brazil"><a href="/stats/teams/9215/mibr?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1245932691">MIBR</a><span class="score"> (16)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anb</div>
+                      <div class="dynamic-map-name-full">Anubis</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--224532654">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183250/mibr-vs-spirit?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725535800000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Brazil" src="/img/static/flags/30x20/BR.gif" class="flag" title="Brazil"><a href="/stats/teams/9215/mibr?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--580644222">MIBR</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Russia" src="/img/static/flags/30x20/RU.gif" class="flag" title="Russia"><a href="/stats/teams/7020/spirit?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-806580934">Spirit</a><span class="score"> (7)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">nuke</div>
+                      <div class="dynamic-map-name-full">Nuke</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--831760552">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183240/spirit-vs-mibr?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725535800000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Russia" src="/img/static/flags/30x20/RU.gif" class="flag" title="Russia"><a href="/stats/teams/7020/spirit?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--42298549">Spirit</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Brazil" src="/img/static/flags/30x20/BR.gif" class="flag" title="Brazil"><a href="/stats/teams/9215/mibr?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--37126433">MIBR</a><span class="score"> (2)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anc</div>
+                      <div class="dynamic-map-name-full">Ancient</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--842546266">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183249/koi-vs-the-mongolz?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725535800000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/12591/koi?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--1916157387">KOI</a><span class="score"> (0)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Mongolia" src="/img/static/flags/30x20/MN.gif" class="flag" title="Mongolia"><a href="/stats/teams/6248/the-mongolz?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-963659266">The MongolZ</a><span class="score"> (13)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">mrg</div>
+                      <div class="dynamic-map-name-full">Mirage</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-1734005159">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-1 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183241/the-mongolz-vs-koi?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725535800000">5/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Mongolia" src="/img/static/flags/30x20/MN.gif" class="flag" title="Mongolia"><a href="/stats/teams/6248/the-mongolz?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1673762564">The MongolZ</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/12591/koi?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-417640709">KOI</a><span class="score"> (1)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">inf</div>
+                      <div class="dynamic-map-name-full">Inferno</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--2061324782">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 first">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183205/heroic-vs-lynn-vision?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725471000000">4/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/7175/heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1724876823">HEROIC</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="China" src="/img/static/flags/30x20/CN.gif" class="flag" title="China"><a href="/stats/teams/8840/lynn-vision?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-556839409">Lynn Vision</a><span class="score"> (7)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">nuke</div>
+                      <div class="dynamic-map-name-full">Nuke</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId-1966236328">ESL Pro League Season 20</a></td>
+                  </tr>
+                  <tr class="group-2 ">
+                    <td class="date-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches/mapstatsid/183200/lynn-vision-vs-heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents">
+                        <div class="time" data-time-format="d/M/yy" data-unix="1725471000000">4/9/24</div>
+                      </a></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="China" src="/img/static/flags/30x20/CN.gif" class="flag" title="China"><a href="/stats/teams/8840/lynn-vision?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId--273366337">Lynn Vision</a><span class="score"> (13)</span></td>
+                    <td class="team-col" style="padding-top: 0px; padding-bottom: 0px;"><img alt="Europe" src="/img/static/flags/30x20/EU.gif" class="flag" title="Europe"><a href="/stats/teams/7175/heroic?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents" data-tooltip-id="uniqueTooltipId-1552259479">HEROIC</a><span class="score"> (6)</span></td>
+                    <td class="statsDetail" style="padding-top: 0px; padding-bottom: 0px;">
+                      <div class="dynamic-map-name-short">anc</div>
+                      <div class="dynamic-map-name-full">Ancient</div>
+                    </td>
+                    <td class="event-col" style="padding-top: 0px; padding-bottom: 0px;"><a href="/stats/matches?startDate=2024-06-09&amp;endDate=2024-09-09&amp;matchType=BigEvents&amp;event=7441" data-tooltip-id="uniqueTooltipId--1148049010">ESL Pro League Season 20</a></td>
+                  </tr>
+                </tbody>
